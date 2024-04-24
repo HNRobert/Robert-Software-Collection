@@ -1,0 +1,73 @@
+import fonts.imtip;
+import win.ui;
+/*DSG{{*/
+mainForm = win.form(text="ImTip 导出方案";right=757;bottom=467)
+mainForm.add()
+/*}}*/
+
+import key.ime.stateBar;
+var imeBar = key.ime.stateBar(mainForm);
+
+//输入法状态提示（应先退出 ImTip ，多个提示窗口同时出现会闪烁）
+imeBar.imeSkin(/*ImTipConfig{{*/{
+argbColor=-1;
+border={color=-16777216;radius=9;width=2};
+offsetX=11;
+iconStyle={align="right";font={h=-14;name="imtip";weight=700};padding={top=4;right=6;left=0;bottom=0}};
+background=-8947850;
+textRenderingHint=3;
+openStyle={[1]={argbColor=-1;background=-8947850;border={color=-16777216;radius=9;width=2};iconColor=-1};[0]={argbColor=-1;background=-8947849;border={color=-16777216;radius=9;width=2};iconColor=-1}};
+align="left";
+valign="center";
+tipChars={fullShape='\uF111';close='\uF05E';hanja="漢";[1033]="En";[2052]="中";[1041]="あ";katakana="カ";halfShape='\uF186';[1042]="가";capital='\uF031';symbol="。"};
+width=58;
+font={h=-17;name="微软雅黑";weight=700};
+iconColor=-1;
+height=24;
+offsetY=9;
+iconTextRenderingHint=3;
+textPadding={top=0;right=0;left=4;bottom=0}
+}/*}}*/)
+
+//托盘图标
+import win.util.tray;
+mainForm.tray = win.util.tray(mainForm)  
+mainForm.tray.tip = "ImTip 导出方案"
+
+//响应托盘消息
+mainForm.onTrayMessage = {
+	[0x205/*_WM_RBUTTONUP*/] = function(wParam){ 
+	    win.setForeground(mainForm.hwnd);
+	    mainForm.popmenu.popup(); 
+	}; 
+}
+
+//托盘弹出菜单
+import win.ui.menu;
+mainForm.popmenu = win.ui.popmenu(mainForm); 
+mainForm.popmenu.add('临时禁用提示',function(id){ 
+	imeBar.imeWatch(!!imeBar.paused);
+	mainForm.popmenu.check(1,!!imeBar.paused);
+});
+
+mainForm.popmenu.add('退出',function(id){ mainForm.close() });
+
+/*
+//输入法状态或目标窗口变更触发此事件
+var lastFocus,lastPath,lastClass;
+imeBar.onImeStateChange = function(hFocus,x,y,openNative,symbolMode,text,iconText){
+	if(lastFocus!=hFocus){
+		lastClass = win.getClass(hFocus);
+		var tid,pid = win.getThreadProcessId(hFocus);
+		lastPath = process.getPath(pid);
+	}
+
+	//指定文件名的程序禁止显示提示
+	if(lastPath && io.splitpath(lastPath).file == "应用程序名称.exe"){
+		return false;
+	}
+	return true;
+}
+*/
+
+win.loopMessage();
