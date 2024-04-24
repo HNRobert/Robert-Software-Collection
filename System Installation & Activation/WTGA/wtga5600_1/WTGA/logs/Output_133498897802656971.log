@@ -1,0 +1,11 @@
+﻿WTG辅助工具5.6.0.0
+2024/1/16 22:43:00
+Command:diskpart.exe /s "C:\Users\10323\AppData\Local\Temp\0966589d-d18a-413a-9f06-45cd7594a1bb"
+Command:diskpart.exe /s "C:\Users\10323\AppData\Local\Temp\0966589d-d18a-413a-9f06-45cd7594a1bb"
+Microsoft DiskPart 版本 10.0.22621.1
+Copyright (C) Microsoft Corporation.
+在计算机上: MANDALA
+卷 10 是所选卷。
+DiskPart 成功地删除了驱动器号或装载点。
+退出 DiskPart...
+

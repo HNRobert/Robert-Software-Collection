@@ -1,0 +1,26 @@
+﻿WTG辅助工具5.6.0.0
+2024/1/16 22:38:37
+Dism Version:10.0.22621.2428 (WinBuild.160101.0800)
+Wim file:J:\sources\install.wim
+Usb Disk:SSFD CHIPFANCIER SCSI Disk Device 953.0 GB (External hard disk media) I:
+Mode:Legacy
+VHDName:wtg
+Re-Partition:True
+VHD Size Set:0
+Fixed VHD:False
+Donet:False
+Disable-WinRE:True
+Block Local Disk:True
+NoTemp:False
+UEFI+GPT:True
+UEFI+MBR:False
+No-format:False
+NtfsUefiSupport:True
+FixLetter:True
+SelectedPart:6
+Partitions:455756,521000,0
+NoDefalutLetter:False
+Bitlocker:False
+SkipOOBE:False
+CreateGuid:b7ed5281-a8cb-4e3a-925c-f0225579e029
+

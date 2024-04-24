@@ -1,0 +1,9 @@
+﻿WTG辅助工具5.6.0.0
+2024/1/16 22:42:44
+Command:dism.exe /image:I: /Apply-Unattend:"C:\Users\10323\AppData\Local\Temp\WTGA\san_policy.xml"
+Command:dism.exe /image:I: /Apply-Unattend:"C:\Users\10323\AppData\Local\Temp\WTGA\san_policy.xml"
+部署映像服务和管理工具
+版本: 10.0.22621.2792
+映像版本: 10.0.22631.2861
+操作成功完成。
+

@@ -1,0 +1,5 @@
+***************************NAT-Radius 插件兼容性检查机卸载工具********************************
+当安装NAT- Radius所需的插件 dotnetFrameWork3.0.exe工具出现错误后提示已有更高级版本后
+所安装的NAT-Radius的RManagerServer（紫色图标）及RadiusManager（绿色图标）无法运行
+请先运行GetOsVersion.exe检查FrameWork的兼容性  2.0版本必须兼容
+然后再运行cleanup_tool.exe卸载工具  将所有都卸载  然后再安装插件包中的dotnetFrameWork3.0.exe

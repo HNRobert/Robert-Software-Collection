@@ -1,0 +1,19 @@
+﻿WTG辅助工具5.6.0.0
+2024/1/16 22:38:37
+select disk 4
+clean
+convert gpt NOERR
+create partition efi size 350
+create partition primary size 455756
+create partition primary
+select partition 3
+format fs=ntfs quick
+assign letter=I
+select partition 4
+format fs=ntfs quick
+assign
+select partition 2
+format fs=fat32 quick
+assign
+exit
+

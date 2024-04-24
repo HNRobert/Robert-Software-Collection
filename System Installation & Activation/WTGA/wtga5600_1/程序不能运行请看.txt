@@ -1,0 +1,7 @@
+注意：程序路径中不要有中文！
+
+从5.5版本开始不再支持32位系统和Win7系统，请使用32位系统和Win7系统的用户下载旧版：
+https://dl.luobotou.org/wtga5430.zip
+
+本程序不再支持XP系统下运行，请XP系统用户下载旧版：
+http://bbs.luobotou.org/thread-6604-1-1.html

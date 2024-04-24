@@ -1,0 +1,24 @@
+1.进入WTG系统，Win+R 输入regedit 打开注册表编辑器
+
+
+
+
+2.定位到[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\partmgr\Parameters]
+
+
+
+
+3.将SanPolicy的值改为4
+
+
+
+
+
+
+4.打开计算机管理》磁盘管理
+
+
+
+
+
+5.右击本机磁盘，点离线

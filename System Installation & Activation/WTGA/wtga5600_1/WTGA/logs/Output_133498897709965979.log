@@ -1,0 +1,6 @@
+﻿WTG辅助工具5.6.0.0
+2024/1/16 22:42:50
+Command:bcdedit.exe/store L:\EFI\Microsoft\Boot\BCD /set {bootmgr} device partition=L:
+Command:bcdedit.exe/store L:\EFI\Microsoft\Boot\BCD /set {bootmgr} device partition=L:
+操作成功完成。
+

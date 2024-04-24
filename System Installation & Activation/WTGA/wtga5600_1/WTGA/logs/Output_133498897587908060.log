@@ -1,0 +1,13 @@
+﻿WTG辅助工具5.6.0.0
+2024/1/16 22:42:38
+Command:dism.exe/image:I:\ /add-driver /driver:"H:\Robert's Backup\Softwares\System Installation & Activation\WTGA\wtga5600_1\WTGA\Drivers" /recurse /ForceUnsigned
+Command:dism.exe/image:I:\ /add-driver /driver:"H:\Robert's Backup\Softwares\System Installation & Activation\WTGA\wtga5600_1\WTGA\Drivers" /recurse /ForceUnsigned
+部署映像服务和管理工具
+版本: 10.0.22621.2792
+映像版本: 10.0.22631.2861
+Searching for driver packages to install...
+错误: 2
+No driver packages were found on the specified path. 
+Verify that the driver .INF files are in the specified location and try the command again.
+可以在 C:\Windows\Logs\DISM\dism.log 上找到 DISM 日志文件
+

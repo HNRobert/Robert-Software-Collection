@@ -1,0 +1,19 @@
+由于某些优盘，使用Windows to go速度过慢，性能的主要瓶颈是在优盘的速度上，所以，要尽可能减少优盘读写次数。
+除了使用EWF之外，这里说几点其他优化方法：
+
+1.使用WTG辅助工具安装时，尽量选择固定大小，提高性能，也便于以后开启EWF。
+2.进入Windows to go系统设置时，尽量不使用Microsoft账号登陆。
+3.关闭不必要的系统服务。
+以下服务都可以关闭：
+Windows search
+Windows Error Reporting Service
+Background Intelligent Transfer Service
+HomeGroup Listener
+HomeGroup Provider
+windows update
+Windows Event Log
+Superfetch
+Windows Defender Service
+Security Center
+Shell Hardware Detection
+4.使用内存盘，把系统临时文件和IE临时文件都放进去

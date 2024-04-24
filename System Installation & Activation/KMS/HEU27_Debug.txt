@@ -1,0 +1,1590 @@
+
+>>[2023-01-12 23:21:15] CLICK <Smart_Btn>......
+HEU KMS Activator 27.0.0 Activate Windows=0 Activate Office=1 Digital/KMS38=1 OEM Activate=1 Office R2V=1 KMS Online=0 KMS Renewal=1 Debug Log=1 
+Windows 10 Pro X64 Build 19045 Activate Option 1;[WinMgmt]-Normal;[SPPSVC]-Normal;
+>>[2023-01-12 23:21:17] Office2021 _OfficeExistCheck_Local Office2021 = 1
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail
+
+>>[2023-01-12 23:21:17] Office2021 Install pathï¼š C:\Program Files\Microsoft Office\Office16
+>>[2023-01-12 23:21:17] Office2021 License pathï¼š C:\Program Files\Microsoft Office\root\Licenses16
+>>[2023-01-12 23:21:17] Office2019 _OfficeExistCheck_Local Office2019 = 0
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail
+
+>>[2023-01-12 23:21:17] Office2019 Install pathï¼š 
+>>[2023-01-12 23:21:17] Office2019 License pathï¼š 
+>>[2023-01-12 23:21:17] Office2016 _OfficeExistCheck_Local Office2016 = 1
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail
+
+>>[2023-01-12 23:21:17] Office2016 Install pathï¼š C:\Program Files\Microsoft Office\Office16
+>>[2023-01-12 23:21:17] Office2016 License pathï¼š C:\Program Files\Microsoft Office\root\Licenses16
+>>[2023-01-12 23:21:17] Office2013 _OfficeExistCheck_Local Office2013 = 0
+ C2R =  MSI = 0 PRIds = 
+
+>>[2023-01-12 23:21:17] Office2013 Install pathï¼š 
+>>[2023-01-12 23:21:17] Office2013 License pathï¼š 
+>>[2023-01-12 23:21:17] Office2010 _OfficeExistCheck_Local Office2010 = 0
+ C2R =  MSI = 0 PRIds = 
+
+>>[2023-01-12 23:21:17] Office2010 Install pathï¼š 
+>>[2023-01-12 23:21:17] Office2010 License pathï¼š 
+>>[2023-01-12 23:21:17] osppsvc [Not Found]
+>>[2023-01-12 23:21:17] _C2R_R2V  Begining...
+>>[2023-01-12 23:21:18] _C2R_R2V  Office16 C2R is found:
+ProPlus2021Retail
+HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration
+HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\ProductReleaseIDs\C41AE7DE-7906-4AA2-9668-140CAE789314
+C:\Program Files\Microsoft Office\root\Licenses16
+C:\Program Files\Microsoft Office\root\integration\integrator.exe
+>>[2023-01-12 23:21:18] _C2R_R2V  Office15 C2R is not found.
+>>[2023-01-12 23:21:18] Office2013 _OfficeExistCheck_MSI  MSI = 0
+
+>>[2023-01-12 23:21:18] _C2R_R2V SubO365: 0,,0,0,0
+
+>>[2023-01-12 23:21:18] Office2021 _OfficeExistCheck_Local Office2021 = 1
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail
+
+>>[2023-01-12 23:21:18] Office2019 _OfficeExistCheck_Local Office2019 = 0
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail
+
+>>[2023-01-12 23:21:18] Office2016 _OfficeExistCheck_Local Office2016 = 1
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail
+
+>>[2023-01-12 23:21:18] Office2013 _OfficeExistCheck_Local Office2013 = 0
+ C2R =  MSI = 0 PRIds = 
+
+>>[2023-01-12 23:21:19] _C2R_R2V Office Volume Check: 
+Windows(R), Professional edition
+Windows(R), ProfessionalEducation edition
+Windows(R), Enterprise edition
+Windows(R), ProfessionalWorkstation edition
+Windows(R), Education edition
+Windows(R), ServerRdsh edition
+Windows(R), ServerRdsh edition
+
+>>[2023-01-12 23:21:19] _C2R_R2V  Office Retail Check: 
+Office 21, Office21ProPlus2021R_OEM_Perp1 edition
+Office 21, Office21ProPlus2021R_OEM_Perp4 edition
+Office 21, Office21ProPlus2021R_Trial2 edition
+Office 21, Office21ProPlus2021MSDNR_Retail edition
+Office 21, Office21ProPlus2021R_Trial1 edition
+Office 21, Office21ProPlus2021R_OEM_Perp3 edition
+Office 21, Office21ProPlus2021R_OEM_Perp2 edition
+Office 21, Office21ProPlus2021R_Retail edition
+Office 21, Office21ProPlus2021R_Grace edition
+Office 21, Office21ProPlus2021R_OEM_Perp5 edition
+Office 21, Office21ProPlus2021R_OEM_Perp6 edition
+Office 21, Office21ProPlus2021DemoR_BypassTrial180 edition
+
+>>[2023-01-12 23:21:19] _C2R_R2V LOC2021 RETExist VOLExist MSI RUN PRV PRR C16R= 1100100,HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration
+>>[2023-01-12 23:21:19] _C2R_R2V LOC2019 RETExist VOLExist MSI RUN PRV PRR C16R= 0000000,HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration
+>>[2023-01-12 23:21:19] _C2R_R2V Office16O365 = 
+>>[2023-01-12 23:21:19] _C2R_R2V LOC2016 RETExist VOLExist MSI RUN PRV PRR C16R= 1000100,HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration
+>>[2023-01-12 23:21:19] _C2R_R2V LOC2013 RETExist VOLExist MSI RUN C15R= 00000,
+>>[2023-01-12 23:21:19] _C2R_R2V Licensed Office Detected: 
+
+>>[2023-01-12 23:21:19] _C2R_R2V Begining to Clean Licenses: 
+>>[2023-01-12 23:21:23] Clean OSPP:Found 44 licenses to install.
+Number of Licenses Uninstalled = 44
+
+
+>>[2023-01-12 23:21:23] _C2R_R2V Office 2013-2021 Licensed detected: 
+
+>>[2023-01-12 23:21:23] _C2R_R2V Office 2013-2021 detected: 
+
+>>[2023-01-12 23:21:23] _C2R_R2V Office16 Retail Detected without installing VL License: 
+ProPlus2019 = 0;ProjectPro2019 = 0;VisioPro2019 = 0;Standard2019 = 0;ProjectStd2019 = 0;VisioStd2019 = 0;Access2019 = 0;SkypeforBusiness2019 = 0;Excel2019 = 0;Outlook2019 = 0;PowerPoint2019 = 0;Publisher2019 = 0;Word2019 = 0;Professional2019 = 0;HomeBusiness2019 = 0;HomeStudent2019 = 0;Mondo = 0;ProjectPro = 0;VisioPro = 0;Standard = 0;ProjectStd = 0;VisioStd = 0;Access = 0;SkypeforBusiness = 0;Excel = 0;Outlook = 0;PowerPoint = 0;Publisher = 0;Word = 0;OneNote = 0;Professional = 0;HomeBusiness = 0;HomeStudent = 0;O365ProPlus = 0;O365Business = 0;O365SmallBusPrem = 0;O365HomePrem = 0;O365EduCloud = 0;ProPlus = 0;ProPlus2021 = 1;ProjectPro2021 = 0;VisioPro2021 = 0;Standard2021 = 0;ProjectStd2021 = 0;VisioStd2021 = 0;Access2021 = 0;SkypeforBusiness2021 = 0;Excel2021 = 0;Outlook2021 = 0;PowerPoint2021 = 0;Publisher2021 = 0;Word2021 = 0;Professional2021 = 0;HomeBusiness2021 = 0;HomeStudent2021 = 0;
+>>[2023-01-12 23:21:23] _C2R_R2V Office16 Permernantly Retail Activated: 
+>>[2023-01-12 23:21:23] _C2R_R2V Office16 Retail Detected without installing VL License & Not Permernant Retail Activated(Need C2R_R2V): ProPlus2019 = 0;ProjectPro2019 = 0;VisioPro2019 = 0;Standard2019 = 0;ProjectStd2019 = 0;VisioStd2019 = 0;Access2019 = 0;SkypeforBusiness2019 = 0;Excel2019 = 0;Outlook2019 = 0;PowerPoint2019 = 0;Publisher2019 = 0;Word2019 = 0;Professional2019 = 0;HomeBusiness2019 = 0;HomeStudent2019 = 0;Mondo = 0;ProjectPro = 0;VisioPro = 0;Standard = 0;ProjectStd = 0;VisioStd = 0;Access = 0;SkypeforBusiness = 0;Excel = 0;Outlook = 0;PowerPoint = 0;Publisher = 0;Word = 0;OneNote = 0;Professional = 0;HomeBusiness = 0;HomeStudent = 0;O365ProPlus = 0;O365Business = 0;O365SmallBusPrem = 0;O365HomePrem = 0;O365EduCloud = 0;ProPlus = 0;ProPlus2021 = 1;ProjectPro2021 = 0;VisioPro2021 = 0;Standard2021 = 0;ProjectStd2021 = 0;VisioStd2021 = 0;Access2021 = 0;SkypeforBusiness2021 = 0;Excel2021 = 0;Outlook2021 = 0;PowerPoint2021 = 0;Publisher2021 = 0;Word2021 = 0;Professional2021 = 0;HomeBusiness2021 = 0;HomeStudent2021 = 0;
+>>[2023-01-12 23:21:23] Installing Office C2R Licenses:ProPlus2021Volume 
+>>[2023-01-12 23:21:28] RefreshLicenseStatus Windows ErrorCode = 0x00000000
+>>[2023-01-12 23:21:28] Office2021 _OfficeExistCheck_Local Office2021 = 1
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail,ProPlus2021Volume
+
+>>[2023-01-12 23:21:28] Office2021 Install pathï¼š C:\Program Files\Microsoft Office\Office16
+>>[2023-01-12 23:21:28] Office2021 License pathï¼š C:\Program Files\Microsoft Office\root\Licenses16
+>>[2023-01-12 23:21:28] _Check_Office_Info Office2021 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =1
+>>[2023-01-12 23:21:28] _CheckOfficeVOL_Licensestatus Office2021 :
+
+
+>>[2023-01-12 23:21:29] _InstallOfficeKey FXYTK-NJJ8C-GB6DW-3DYQT-6F7TH = 0
+
+>>[2023-01-12 23:21:29] Office2019 _OfficeExistCheck_Local Office2019 = 0
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail,ProPlus2021Volume
+
+>>[2023-01-12 23:21:29] Office2019 Install pathï¼š 
+>>[2023-01-12 23:21:29] Office2019 License pathï¼š 
+>>[2023-01-12 23:21:29] Office2016 _OfficeExistCheck_Local Office2016 = 1
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail,ProPlus2021Volume
+
+>>[2023-01-12 23:21:29] Office2016 Install pathï¼š C:\Program Files\Microsoft Office\Office16
+>>[2023-01-12 23:21:29] Office2016 License pathï¼š C:\Program Files\Microsoft Office\root\Licenses16
+>>[2023-01-12 23:21:29] _Check_Office_Info Office2016 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =0
+>>[2023-01-12 23:21:30] _CheckOfficeVOL_Licensestatus Office2016 :
+
+
+>>[2023-01-12 23:21:30] Office2013 _OfficeExistCheck_Local Office2013 = 0
+ C2R =  MSI = 0 PRIds = 
+
+>>[2023-01-12 23:21:30] Office2013 Install pathï¼š 
+>>[2023-01-12 23:21:30] Office2013 License pathï¼š 
+>>[2023-01-12 23:21:30] _MSI_R2V  Begining...
+>>[2023-01-12 23:21:30] Office2010 _OfficeExistCheck_Local Office2010 = 0
+ C2R =  MSI = 0 PRIds = 
+
+>>[2023-01-12 23:21:30] _MSI_R2V Office 2010 is not detected.
+>>[2023-01-12 23:21:30] Office2013 _OfficeExistCheck_MSI  MSI = 0
+
+>>[2023-01-12 23:21:30] _MSI_R2V Office 2013 is not detected.
+>>[2023-01-12 23:21:30] Office2016 _OfficeExistCheck_MSI  MSI = 0
+
+>>[2023-01-12 23:21:30]  _OfficeUWPExist OfficeExist = 0
+
+>>[2023-01-12 23:21:30] Office2016 _OfficeExistCheck_Local Office2016 = 1
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail,ProPlus2021Volume
+
+>>[2023-01-12 23:21:30] _MSI_R2V Office 2016 is not detected.
+>>[2023-01-12 23:21:30] Office2019 _OfficeExistCheck_Local Office2019 = 0
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail,ProPlus2021Volume
+
+>>[2023-01-12 23:21:30] _MSI_R2V Office 2019 is not detected.
+>>[2023-01-12 23:21:30] _Check_Office_Info Office2021 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =1
+>>[2023-01-12 23:21:30] _Check_Office_Info Office2019 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =0
+>>[2023-01-12 23:21:30] _Check_Office_Info Office2016 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =0
+>>[2023-01-12 23:21:31] _Check_Office_Info Office2013 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =0
+>>[2023-01-12 23:21:31] _Check_Office_Info Office2010 :
+
+
+ Office VL =0
+>>[2023-01-12 23:21:31] sppsvc [Status:Stopped]
+>>[2023-01-12 23:21:31] osppsvc [Not Found]
+>>[2023-01-12 23:21:31] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Del = 0
+>>[2023-01-12 23:21:32] Remove Microsoft Defender Exclusion ErrorCode:0
+;0
+
+>>[2023-01-12 23:21:32] Del NoGenTicket = 0
+>>[2023-01-12 23:21:32] SECOPatcher.dll [Not Found]
+>>[2023-01-12 23:21:33] _DelSECOPatcher Remove vlmcsd = Service vlmcsd does not exist.
+
+>>[2023-01-12 23:21:33] _DelSECOPatcher Del kms-server.exe = 0
+>>[2023-01-12 23:21:33] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Del = 0
+>>[2023-01-12 23:21:33] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\sppsvc.exe Del = 0
+>>[2023-01-12 23:21:33] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\osppsvc.exe Del = 0
+>>[2023-01-12 23:21:33] SppExtComObjHook.dll [Not Found]
+>>[2023-01-12 23:21:33] Remove Microsoft Defender Exclusion ErrorCode:0
+
+>>[2023-01-12 23:21:33] _StartKMSServer KMSMode = 1
+>>[2023-01-12 23:21:34] _CheckPort [1688:OK]
+>>[2023-01-12 23:21:34] Add Microsoft Defender Exclusion ErrorCode:0
+;0
+
+>>[2023-01-12 23:21:34] Add NoGenTicket = 1
+>>[2023-01-12 23:21:34] Copy SECOPatcher = 1    C:\windows\System32
+>>[2023-01-12 23:21:35] å‘çŽ° SID: C:\windows\System32\SECOPatcher.dllã€‚
+å·²æˆåŠŸå¤„ç† 1 ä¸ªæ–‡ä»¶; å¤„ç† 0 ä¸ªæ–‡ä»¶æ—¶å¤±è´¥
+
+å·²å¤„ç†çš„æ–‡ä»¶: C:\windows\System32\SECOPatcher.dll
+å·²æˆåŠŸå¤„ç† 1 ä¸ªæ–‡ä»¶; å¤„ç† 0 ä¸ªæ–‡ä»¶æ—¶å¤±è´¥
+
+>>[2023-01-12 23:21:35] Add Debugger = 1
+>>[2023-01-12 23:21:35] Copy kms-server.exe = 1    C:\windows\System32
+>>[2023-01-12 23:21:36] vlmcsd [Succeed to start]
+>>[2023-01-12 23:21:36] _CheckLocalKMSServer Mode1 [Files Complete]
+>>[2023-01-12 23:21:36] _TcpClientConnect->127.0.0.2:1688[Succeed]
+>>[2023-01-12 23:21:37] sppsvc [Status:Running]
+>>[2023-01-12 23:21:37] _CheckOfficeVOL_Licensestatus Office2021 :
+
+
+>>[2023-01-12 23:21:38] sppsvc [Status:Running]
+>>[2023-01-12 23:21:38] WinMgmt [Status:Running]
+>>[2023-01-12 23:21:38] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2023-01-12 23:21:38] HKU64\S-1-5-20\Software\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2023-01-12 23:21:38] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2023-01-12 23:21:38] HKU64\S-1-5-20\Software\Microsoft\Windows NT\CurrentVersion\OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2023-01-12 23:21:38] HKLM64\SOFTWARE\Microsoft\OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2023-01-12 23:21:38] HKU64\S-1-5-20\SOFTWARE\Microsoft\OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2023-01-12 23:21:38] KMS Name and Port = 1,1,1,1
+>>[2023-01-12 23:21:38] Fixbanner = 1,1,1,1
+>>[2023-01-12 23:21:39] Install Office Key FXYTK-NJJ8C-GB6DW-3DYQT-6F7TH Error Code = 0
+
+>>[2023-01-12 23:22:03] _ActivateOffice Error Code = 0xC004F074
+>>[2023-01-12 23:22:04] _CheckOfficeVOL_Licensestatus Office2016 :
+
+
+>>[2023-01-12 23:22:04]  _OfficeUWPExist OfficeExist = 0
+
+>>[2023-01-12 23:22:45] CLICK <KMS_ActOff>......
+HEU KMS Activator 27.0.0 Activate Windows=0 Activate Office=1 Digital/KMS38=1 OEM Activate=1 Office R2V=1 KMS Online=0 KMS Renewal=1 Debug Log=1 
+Windows 10 Pro X64 Build 19045 Activate Option 1;[WinMgmt]-Normal;[SPPSVC]-Normal;
+>>[2023-01-12 23:22:46] sppsvc [Succeed to start]
+>>[2023-01-12 23:22:46] osppsvc [Not Found]
+>>[2023-01-12 23:22:46] Office2021 _OfficeExistCheck_Local Office2021 = 1
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail,ProPlus2021Volume
+
+>>[2023-01-12 23:22:46] Office2021 Install pathï¼š C:\Program Files\Microsoft Office\Office16
+>>[2023-01-12 23:22:46] Office2021 License pathï¼š C:\Program Files\Microsoft Office\root\Licenses16
+>>[2023-01-12 23:22:46] Office2019 _OfficeExistCheck_Local Office2019 = 0
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail,ProPlus2021Volume
+
+>>[2023-01-12 23:22:46] Office2019 Install pathï¼š 
+>>[2023-01-12 23:22:46] Office2019 License pathï¼š 
+>>[2023-01-12 23:22:46] Office2016 _OfficeExistCheck_Local Office2016 = 1
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail,ProPlus2021Volume
+
+>>[2023-01-12 23:22:46] Office2016 Install pathï¼š C:\Program Files\Microsoft Office\Office16
+>>[2023-01-12 23:22:46] Office2016 License pathï¼š C:\Program Files\Microsoft Office\root\Licenses16
+>>[2023-01-12 23:22:46] Office2013 _OfficeExistCheck_Local Office2013 = 0
+ C2R =  MSI = 0 PRIds = 
+
+>>[2023-01-12 23:22:46] Office2013 Install pathï¼š 
+>>[2023-01-12 23:22:46] Office2013 License pathï¼š 
+>>[2023-01-12 23:22:46] Office2010 _OfficeExistCheck_Local Office2010 = 0
+ C2R =  MSI = 0 PRIds = 
+
+>>[2023-01-12 23:22:46] Office2010 Install pathï¼š 
+>>[2023-01-12 23:22:46] Office2010 License pathï¼š 
+>>[2023-01-12 23:22:46]  _OfficeUWPExist OfficeExist = 0
+
+>>[2023-01-12 23:22:46] _Check_Office_Info Office2021 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =1
+>>[2023-01-12 23:22:46] _Check_Office_Info Office2019 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =0
+>>[2023-01-12 23:22:47] _Check_Office_Info Office2016 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =0
+>>[2023-01-12 23:22:47] _Check_Office_Info Office2013 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =0
+>>[2023-01-12 23:22:47] _Check_Office_Info Office2010 :
+
+
+ Office VL =0
+>>[2023-01-12 23:22:47] sppsvc [Status:Stopped]
+>>[2023-01-12 23:22:48] osppsvc [Status:Stopped]
+>>[2023-01-12 23:22:48] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Del = 1
+>>[2023-01-12 23:22:48] Remove Microsoft Defender Exclusion ErrorCode:0
+;0
+
+>>[2023-01-12 23:22:48] Del NoGenTicket = 1
+>>[2023-01-12 23:22:49] å·²å¤„ç†çš„æ–‡ä»¶: C:\windows\System32\SECOPatcher.dll
+å·²æˆåŠŸå¤„ç† 1 ä¸ªæ–‡ä»¶; å¤„ç† 0 ä¸ªæ–‡ä»¶æ—¶å¤±è´¥
+
+>>[2023-01-12 23:22:49] _DelSECOPatcher Del SECOPatcher.dll = 1
+>>[2023-01-12 23:22:49] _DelSECOPatcher Remove vlmcsd = Service vlmcsd removed successfully
+
+>>[2023-01-12 23:22:49] _DelSECOPatcher Del kms-server.exe = 1
+>>[2023-01-12 23:22:49] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Del = 0
+>>[2023-01-12 23:22:49] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\sppsvc.exe Del = 0
+>>[2023-01-12 23:22:49] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\osppsvc.exe Del = 0
+>>[2023-01-12 23:22:49] SppExtComObjHook.dll [Not Found]
+>>[2023-01-12 23:22:50] Remove Microsoft Defender Exclusion ErrorCode:0
+
+>>[2023-01-12 23:22:50] _StartKMSServer KMSMode = 1
+>>[2023-01-12 23:22:50] _CheckPort [1680:OK]
+>>[2023-01-12 23:22:52] _TcpClientConnect->52.148.82.138:443[Failed]
+>>[2023-01-12 23:22:52] _CheckWindowsInfo_Digital OperatingSystemSKU = 48
+>>[2023-01-12 23:22:52] _CheckWindowsInfo_Digital BuildBranch = vb_release
+>>[2023-01-12 23:22:52] _CheckWindowsInfo_Digital 
+Windows Edition=Professional
+Windows Digital Key=VK7JG-NPHTM-C97JM-9MPGT-3V66T
+Windows ID=4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+>>[2023-01-12 23:22:52] _CheckWindowsInfo_Digital OperatingSystemSKU = 48
+>>[2023-01-12 23:22:52] _CheckWindowsInfo_Digital BuildBranch = vb_release
+>>[2023-01-12 23:22:52] _CheckWindowsInfo_Digital 
+Windows Edition=Professional
+Windows Digital Key=W269N-WFGWX-YVC9B-4J6C9-T83GX
+Windows ID=2de67392-b7a7-462a-b1ca-108dd189f588
+>>[2023-01-12 23:22:53] Add Microsoft Defender Exclusion ErrorCode:0
+;0
+
+>>[2023-01-12 23:22:53] Add NoGenTicket = 1
+>>[2023-01-12 23:22:53] Copy SECOPatcher = 1    C:\windows\System32
+>>[2023-01-12 23:22:54] å‘çŽ° SID: C:\windows\System32\SECOPatcher.dllã€‚
+å·²æˆåŠŸå¤„ç† 1 ä¸ªæ–‡ä»¶; å¤„ç† 0 ä¸ªæ–‡ä»¶æ—¶å¤±è´¥
+
+å·²å¤„ç†çš„æ–‡ä»¶: C:\windows\System32\SECOPatcher.dll
+å·²æˆåŠŸå¤„ç† 1 ä¸ªæ–‡ä»¶; å¤„ç† 0 ä¸ªæ–‡ä»¶æ—¶å¤±è´¥
+
+>>[2023-01-12 23:22:54] Add Debugger = 1
+>>[2023-01-12 23:22:54] Copy kms-server.exe = 1    C:\windows\System32
+>>[2023-01-12 23:22:55] vlmcsd [Succeed to start]
+>>[2023-01-12 23:22:55] _CheckLocalKMSServer Mode1 [Files Complete]
+>>[2023-01-12 23:22:55] _TcpClientConnect->127.0.0.2:1680[Succeed]
+>>[2023-01-12 23:22:56] sppsvc [Status:Running]
+>>[2023-01-12 23:22:56] _CheckOfficeVOL_Licensestatus Office2021 :
+
+
+>>[2023-01-12 23:22:56] sppsvc [Status:Running]
+>>[2023-01-12 23:22:57] WinMgmt [Status:Running]
+>>[2023-01-12 23:22:57] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2023-01-12 23:22:57] HKU64\S-1-5-20\Software\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2023-01-12 23:22:57] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2023-01-12 23:22:57] HKU64\S-1-5-20\Software\Microsoft\Windows NT\CurrentVersion\OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2023-01-12 23:22:57] HKLM64\SOFTWARE\Microsoft\OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2023-01-12 23:22:57] HKU64\S-1-5-20\SOFTWARE\Microsoft\OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2023-01-12 23:22:57] KMS Name and Port = 1,1,1,1
+>>[2023-01-12 23:22:57] Fixbanner = 1,1,1,1
+>>[2023-01-12 23:22:58] Install Office Key FXYTK-NJJ8C-GB6DW-3DYQT-6F7TH Error Code = 0
+
+>>[2023-01-12 23:23:01] _ActivateOffice Error Code = 0x00000000
+>>[2023-01-12 23:23:01] _Check_Office_Info Office2016 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =0
+>>[2023-01-12 23:23:02] _CheckOfficeVOL_Licensestatus Office2016 :
+
+
+>>[2023-01-12 23:23:02] sppsvc [Status:Stopped]
+>>[2023-01-12 23:23:02] osppsvc [Not Found]
+>>[2023-01-12 23:23:02] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Del = 1
+>>[2023-01-12 23:23:03] Remove Microsoft Defender Exclusion ErrorCode:0
+;0
+
+>>[2023-01-12 23:23:03] Del NoGenTicket = 1
+>>[2023-01-12 23:23:04] å·²å¤„ç†çš„æ–‡ä»¶: C:\windows\System32\SECOPatcher.dll
+å·²æˆåŠŸå¤„ç† 1 ä¸ªæ–‡ä»¶; å¤„ç† 0 ä¸ªæ–‡ä»¶æ—¶å¤±è´¥
+
+>>[2023-01-12 23:23:04] _DelSECOPatcher Del SECOPatcher.dll = 1
+>>[2023-01-12 23:23:04] _DelSECOPatcher Remove vlmcsd = Service vlmcsd removed successfully
+
+>>[2023-01-12 23:23:04] _DelSECOPatcher Del kms-server.exe = 1
+>>[2023-01-12 23:23:24] CLICK <Renewal_Renewal>......
+HEU KMS Activator 27.0.0 Activate Windows=0 Activate Office=1 Digital/KMS38=1 OEM Activate=1 Office R2V=1 KMS Online=0 KMS Renewal=1 Debug Log=1 
+Windows 10 Pro X64 Build 19045 Activate Option 1;[WinMgmt]-Normal;[SPPSVC]-Normal;
+>>[2023-01-12 23:23:24] sppsvc [Status:Stopped]
+>>[2023-01-12 23:23:24] KeyManagementServiceName Add = 1 KMSHost = 10.0.0.1
+>>[2023-01-12 23:23:24] KeyManagementServicePort Add = 1 KMSPort = 1688
+>>[2023-01-12 23:23:24] Office2010 _OfficeExistCheck_Local Office2010 = 0
+ C2R =  MSI = 0 PRIds = 
+
+>>[2023-01-12 23:23:24] Office2010 Install pathï¼š 
+>>[2023-01-12 23:23:24] Office2010 License pathï¼š 
+>>[2023-01-12 23:23:25] Office2013 _OfficeExistCheck_Local Office2013 = 0
+ C2R =  MSI = 0 PRIds = 
+
+>>[2023-01-12 23:23:25] Office2013 Install pathï¼š 
+>>[2023-01-12 23:23:25] Office2013 License pathï¼š 
+>>[2023-01-12 23:23:25] Office2016 _OfficeExistCheck_Local Office2016 = 1
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail,ProPlus2021Volume
+
+>>[2023-01-12 23:23:25] Office2016 Install pathï¼š C:\Program Files\Microsoft Office\Office16
+>>[2023-01-12 23:23:25] Office2016 License pathï¼š C:\Program Files\Microsoft Office\root\Licenses16
+>>[2023-01-12 23:23:25] Office2019 _OfficeExistCheck_Local Office2019 = 0
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail,ProPlus2021Volume
+
+>>[2023-01-12 23:23:25] Office2019 Install pathï¼š 
+>>[2023-01-12 23:23:25] Office2019 License pathï¼š 
+>>[2023-01-12 23:23:25] Office2021 _OfficeExistCheck_Local Office2021 = 1
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail,ProPlus2021Volume
+
+>>[2023-01-12 23:23:25] Office2021 Install pathï¼š C:\Program Files\Microsoft Office\Office16
+>>[2023-01-12 23:23:25] Office2021 License pathï¼š C:\Program Files\Microsoft Office\root\Licenses16
+>>[2023-01-12 23:23:25] KMS Name and Port = 1,1,1,1
+>>[2023-01-12 23:23:25] Fixbanner = 1,1,1,1
+>>[2023-01-12 23:23:25] _StartKMSServer KMSMode = 1
+>>[2023-01-12 23:23:25] _CheckPort [1681:OK]
+>>[2023-01-12 23:23:26] Add Microsoft Defender Exclusion ErrorCode:0
+;0
+
+>>[2023-01-12 23:23:26] Add NoGenTicket = 1
+>>[2023-01-12 23:23:26] Copy SECOPatcher = 1    C:\windows\System32
+>>[2023-01-12 23:23:26] å‘çŽ° SID: C:\windows\System32\SECOPatcher.dllã€‚
+å·²æˆåŠŸå¤„ç† 1 ä¸ªæ–‡ä»¶; å¤„ç† 0 ä¸ªæ–‡ä»¶æ—¶å¤±è´¥
+
+å·²å¤„ç†çš„æ–‡ä»¶: C:\windows\System32\SECOPatcher.dll
+å·²æˆåŠŸå¤„ç† 1 ä¸ªæ–‡ä»¶; å¤„ç† 0 ä¸ªæ–‡ä»¶æ—¶å¤±è´¥
+
+>>[2023-01-12 23:23:27] Add Debugger = 1
+>>[2023-01-12 23:23:27] Copy kms-server.exe = 1    C:\windows\System32
+>>[2023-01-12 23:23:28] vlmcsd [Succeed to start]
+>>[2023-01-12 23:23:28] _CheckLocalKMSServer Mode1 [Files Complete]
+>>[2023-01-12 23:23:28] _TcpClientConnect->127.0.0.2:1681[Succeed]
+>>[2023-01-12 23:23:29] æˆåŠŸ: æˆåŠŸåˆ›å»ºè®¡åˆ’ä»»åŠ¡ "\Microsoft\Windows\SoftwareProtectionPlatform\SvcTrigger"ã€‚
+ä¿¡æ¯: å·²å¯ç”¨è®¡åˆ’çš„ä»»åŠ¡ "\Microsoft\Windows\SoftwareProtectionPlatform\SvcTrigger"ã€‚
+æˆåŠŸ: æ›´æ”¹äº†è®¡åˆ’ä»»åŠ¡ "\Microsoft\Windows\SoftwareProtectionPlatform\SvcTrigger" çš„å‚æ•°ã€‚
+
+>>[2023-01-12 23:23:29] _CheckLocalKMSServer Mode1 [Files Complete]
+>>[2023-01-12 23:23:29] _RenewalCheck = 1
+>>[2023-01-12 23:23:30] sppsvc [Status:Running]
+>>[2023-02-09 21:50:45] CLICK <Smart_Btn>......
+HEU KMS Activator 27.0.0 Activate Windows=1 Activate Office=0 Digital/KMS38=1 OEM Activate=1 Office R2V=0 KMS Online=0 KMS Renewal=1 Debug Log=1 
+Windows 10 Pro X64 Build 19045 Activate Option 1;[WinMgmt]-Normal;[SPPSVC]-Normal;
+>>[2023-02-09 21:50:48] sppsvc [Status:Running]
+>>[2023-02-09 21:50:49] _CheckWindowsLicensestatus Name = Windows(R), Professional edition,  GracePeriodRemaining = 0
+>>[2023-02-09 21:50:49] _CheckWindowsLicensestatus = 0
+>>[2023-02-09 21:50:49] _CheckWindowsInfo_Digital OperatingSystemSKU = 48
+>>[2023-02-09 21:50:49] _CheckWindowsInfo_Digital BuildBranch = vb_release
+>>[2023-02-09 21:50:49] _CheckWindowsInfo_Digital 
+Windows Edition=Professional
+Windows Digital Key=W269N-WFGWX-YVC9B-4J6C9-T83GX
+Windows ID=2de67392-b7a7-462a-b1ca-108dd189f588
+>>[2023-02-09 21:50:49] _DigitalActivate ARM = 0
+>>[2023-02-09 21:50:49] _ServiceErrorCheck ClipSVC=3[Disable=4;Demand=3;Auto=2]
+>>[2023-02-09 21:50:50] _ServiceRunCheck ClipSVC[Succeed]
+>>[2023-02-09 21:50:50] _ServiceErrorCheck sppsvc=2[Disable=4;Demand=3;Auto=2]
+>>[2023-02-09 21:50:52] _ServiceRunCheck sppsvc[Succeed]
+>>[2023-02-09 21:50:52] _ServiceErrorCheck Winmgmt=2[Disable=4;Demand=3;Auto=2]
+>>[2023-02-09 21:50:53] _ServiceRunCheck Winmgmt[Succeed]
+>>[2023-02-09 21:50:53] Found PersistedTSReArmed [System Requires Restart]
+>>[2023-02-09 21:50:53] Found PersistedSystemState [System Requires Restart]
+>>[2023-02-09 21:50:53] licensing.mp.microsoft.com[No Responding]
+>>[2023-02-09 21:50:54] _DigitalActivate InstallWindowsKey ErrorCode = 0x00000000
+>>[2023-02-09 21:50:54] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\55c92734-d682-4d71-983e-d6ec3f16059f Del = 0
+>>[2023-02-09 21:50:54] HKU64\S-1-5-20\Software\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\55c92734-d682-4d71-983e-d6ec3f16059f Del = 0
+>>[2023-02-09 21:50:54] KeyManagementServiceName Del = 1
+>>[2023-02-09 21:50:54] KeyManagementServicePort Del = 1
+>>[2023-02-09 21:50:54] KeyManagementServiceName 127.0.0.2 Add = 1
+>>[2023-02-09 21:50:54] KeyManagementServicePort 1688 Add = 1
+>>[2023-02-09 21:50:54] _Generate_GenuineTicket C:\ProgramData\Microsoft\Windows\ClipSVC\GenuineTicket\GenuineTicket.xml
+SessionId=
+TwBTAE0AYQBqAG8AcgBWAGUAcgBzAGkAbwBuAD0ANQA7AE8AUwBNAGkAbgBvAHIAVgBlAHIAcwBpAG8AbgA9ADEAOwBPAFMAUABsAGEAdABmAG8AcgBtAEkAZAA9ADIAOwBQAFAAPQAwADsARwBWAEwASwBFAHgAcAA9ADIAMAAzADgALQAwADEALQAxADkAVAAwADMAOgAxADQAOgAwADcAWgA7AEQAbwB3AG4AbABlAHYAZQBsAEcAZQBuAHUAaQBuAGUAUwB0AGEAdABlAD0AMQA7AAAA
+>>[2023-02-09 21:51:03] ClipSVC Service Restart Method [Succeed]
+>>[2023-02-09 21:51:04] _CheckWindowsLicensestatus Name = Windows(R), Professional edition,  GracePeriodRemaining = 7858883
+>>[2023-02-09 21:51:04] _CheckWindowsLicensestatus = 2
+>>[2023-02-09 21:51:04] _KMS38Protect IDList: 
+2de67392-b7a7-462a-b1ca-108dd189f588
+>>[2023-02-09 21:51:06] _KMS38Protect TakeOwnerShip = 1(Reg =1,0,1,1)
+>>[2023-02-11 14:50:01] CLICK <Smart_Btn>......
+HEU KMS Activator 27.0.0 Activate Windows=1 Activate Office=0 Digital/KMS38=1 OEM Activate=1 Office R2V=0 KMS Online=0 KMS Renewal=1 Debug Log=1 
+Windows 10 Pro X64 Build 19045 Activate Option 1;[WinMgmt]-Normal;[SPPSVC]-Normal;
+>>[2023-02-11 14:50:05] sppsvc [Status:Running]
+>>[2023-02-11 14:50:05] _CheckWindowsLicensestatus Name = Windows(R), Professional edition,  GracePeriodRemaining = 0
+>>[2023-02-11 14:50:05] _CheckWindowsLicensestatus = 0
+>>[2023-02-11 14:50:05] _TcpClientConnect->52.148.82.138:443[Succeed]
+>>[2023-02-11 14:50:05] _CheckWindowsInfo_Digital OperatingSystemSKU = 48
+>>[2023-02-11 14:50:05] _CheckWindowsInfo_Digital BuildBranch = vb_release
+>>[2023-02-11 14:50:05] _CheckWindowsInfo_Digital 
+Windows Edition=Professional
+Windows Digital Key=VK7JG-NPHTM-C97JM-9MPGT-3V66T
+Windows ID=4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+>>[2023-02-11 14:50:05] _DigitalActivate ARM = 0
+>>[2023-02-11 14:50:05] _ServiceErrorCheck ClipSVC=3[Disable=4;Demand=3;Auto=2]
+>>[2023-02-11 14:50:07] _ServiceRunCheck ClipSVC[Succeed]
+>>[2023-02-11 14:50:07] _ServiceErrorCheck wlidsvc=3[Disable=4;Demand=3;Auto=2]
+>>[2023-02-11 14:50:08] _ServiceRunCheck wlidsvc[Succeed]
+>>[2023-02-11 14:50:08] _ServiceErrorCheck sppsvc=2[Disable=4;Demand=3;Auto=2]
+>>[2023-02-11 14:50:10] _ServiceRunCheck sppsvc[Succeed]
+>>[2023-02-11 14:50:10] _ServiceErrorCheck LicenseManager=3[Disable=4;Demand=3;Auto=2]
+>>[2023-02-11 14:50:11] _ServiceRunCheck LicenseManager[Succeed]
+>>[2023-02-11 14:50:11] _ServiceErrorCheck Winmgmt=2[Disable=4;Demand=3;Auto=2]
+>>[2023-02-11 14:50:13] _ServiceRunCheck Winmgmt[Succeed]
+>>[2023-02-11 14:50:13] _ServiceErrorCheck wuauserv=3[Disable=4;Demand=3;Auto=2]
+>>[2023-02-11 14:50:14] _ServiceRunCheck wuauserv[Succeed]
+>>[2023-02-11 14:50:14] Found PersistedTSReArmed [System Requires Restart]
+>>[2023-02-11 14:50:14] Found PersistedSystemState [System Requires Restart]
+>>[2023-02-11 14:50:15] _TcpClientConnect->52.148.82.138:443[Succeed]
+>>[2023-02-11 14:50:16] _DigitalActivate InstallWindowsKey ErrorCode = 0x00000000
+>>[2023-02-11 14:50:16] _Generate_GenuineTicket C:\ProgramData\Microsoft\Windows\ClipSVC\GenuineTicket\GenuineTicket.xml
+SessionId=OSMajorVersion=5;OSMinorVersion=1;OSPlatformId=2;PP=0;Pfn=Microsoft.Windows.48.X19-98841_8wekyb3d8bbwe;DownlevelGenuineState=1; 
+TwBTAE0AYQBqAG8AcgBWAGUAcgBzAGkAbwBuAD0ANQA7AE8AUwBNAGkAbgBvAHIAVgBlAHIAcwBpAG8AbgA9ADEAOwBPAFMAUABsAGEAdABmAG8AcgBtAEkAZAA9ADIAOwBQAFAAPQAwADsAUABmAG4APQBNAGkAYwByAG8AcwBvAGYAdAAuAFcAaQBuAGQAbwB3AHMALgA0ADgALgBYADEAOQAtADkAOAA4ADQAMQBfADgAdwBlAGsAeQBiADMAZAA4AGIAYgB3AGUAOwBEAG8AdwBuAGwAZQB2AGUAbABHAGUAbgB1AGkAbgBlAFMAdABhAHQAZQA9ADEAOwAAAA==
+>>[2023-02-11 14:50:25] ClipSVC Service Restart Method [Succeed]
+>>[2023-02-11 14:50:27] Activating Windows ErrorCode = 0x00000000
+>>[2023-02-11 14:50:27] _CheckWindowsLicensestatus Name = Windows(R), Professional edition,  GracePeriodRemaining = 0
+>>[2023-02-11 14:50:27] _CheckWindowsLicensestatus = 1
+>>[2023-02-22 01:39:17] CLICK <Smart_Btn>......
+HEU KMS Activator 27.0.0 Activate Windows=1 Activate Office=0 Digital/KMS38=1 OEM Activate=1 Office R2V=0 KMS Online=0 KMS Renewal=1 Debug Log=1 
+Windows 10 Pro X64 Build 19045 Activate Option 1;[WinMgmt]-Normal;[SPPSVC]-Normal;
+>>[2023-02-22 01:39:22] sppsvc [Status:Running]
+>>[2023-02-22 01:39:22] _CheckWindowsLicensestatus Name = Windows(R), Professional edition,  GracePeriodRemaining = 0
+>>[2023-02-22 01:39:22] _CheckWindowsLicensestatus = 0
+>>[2023-02-22 01:39:22] _CheckWindowsInfo_Digital OperatingSystemSKU = 48
+>>[2023-02-22 01:39:22] _CheckWindowsInfo_Digital BuildBranch = vb_release
+>>[2023-02-22 01:39:22] _CheckWindowsInfo_Digital 
+Windows Edition=Professional
+Windows Digital Key=W269N-WFGWX-YVC9B-4J6C9-T83GX
+Windows ID=2de67392-b7a7-462a-b1ca-108dd189f588
+>>[2023-02-22 01:39:22] _DigitalActivate ARM = 0
+>>[2023-02-22 01:39:23] _ServiceErrorCheck ClipSVC=3[Disable=4;Demand=3;Auto=2]
+>>[2023-02-22 01:39:28] ClipSVC [Succeed to start]
+>>[2023-02-22 01:39:29] _ServiceRunCheck ClipSVC[Succeed]
+>>[2023-02-22 01:39:29] _ServiceErrorCheck sppsvc=2[Disable=4;Demand=3;Auto=2]
+>>[2023-02-22 01:39:31] _ServiceRunCheck sppsvc[Succeed]
+>>[2023-02-22 01:39:31] _ServiceErrorCheck Winmgmt=2[Disable=4;Demand=3;Auto=2]
+>>[2023-02-22 01:39:32] _ServiceRunCheck Winmgmt[Succeed]
+>>[2023-02-22 01:39:32] Found PersistedTSReArmed [System Requires Restart]
+>>[2023-02-22 01:39:32] Found PersistedSystemState [System Requires Restart]
+>>[2023-02-22 01:39:32] licensing.mp.microsoft.com[No Responding]
+>>[2023-02-22 01:39:33] _DigitalActivate InstallWindowsKey ErrorCode = 0x00000000
+>>[2023-02-22 01:39:33] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\55c92734-d682-4d71-983e-d6ec3f16059f Del = 2
+>>[2023-02-22 01:39:33] HKU64\S-1-5-20\Software\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\55c92734-d682-4d71-983e-d6ec3f16059f Del = 0
+>>[2023-02-22 01:39:33] KeyManagementServiceName Del = 0
+>>[2023-02-22 01:39:33] KeyManagementServicePort Del = 0
+>>[2023-02-22 01:39:33] KeyManagementServiceName 127.0.0.2 Add = 0
+>>[2023-02-22 01:39:33] KeyManagementServicePort 1688 Add = 0
+>>[2023-02-22 01:39:33] _Generate_GenuineTicket C:\ProgramData\Microsoft\Windows\ClipSVC\GenuineTicket\GenuineTicket.xml
+SessionId=
+TwBTAE0AYQBqAG8AcgBWAGUAcgBzAGkAbwBuAD0ANQA7AE8AUwBNAGkAbgBvAHIAVgBlAHIAcwBpAG8AbgA9ADEAOwBPAFMAUABsAGEAdABmAG8AcgBtAEkAZAA9ADIAOwBQAFAAPQAwADsARwBWAEwASwBFAHgAcAA9ADIAMAAzADgALQAwADEALQAxADkAVAAwADMAOgAxADQAOgAwADcAWgA7AEQAbwB3AG4AbABlAHYAZQBsAEcAZQBuAHUAaQBuAGUAUwB0AGEAdABlAD0AMQA7AAAA
+>>[2023-02-22 01:39:43] ClipSVC Service Restart Method [Succeed]
+>>[2023-02-22 01:39:44] _CheckWindowsLicensestatus Name = Windows(R), Professional edition,  GracePeriodRemaining = 7841374
+>>[2023-02-22 01:39:44] _CheckWindowsLicensestatus = 2
+>>[2023-02-22 01:39:44] _KMS38Protect IDList: 
+2de67392-b7a7-462a-b1ca-108dd189f588
+>>[2023-02-22 01:39:46] _KMS38Protect TakeOwnerShip = 1(Reg =2,0,0,0)
+>>[2023-04-04 02:40:22] CLICK <Smart_Btn>......
+HEU KMS Activator 27.0.0 Activate Windows=0 Activate Office=1 Digital/KMS38=1 OEM Activate=1 Office R2V=1 KMS Online=0 KMS Renewal=1 Debug Log=1 
+Windows 10 Pro X64 Build 19045 Activate Option 1;[WinMgmt]-Normal;[SPPSVC]-Normal;
+>>[2023-04-04 02:40:24] Office2021 _OfficeExistCheck_Local Office2021 = 1
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail
+
+>>[2023-04-04 02:40:24] Office2021 Install path£º C:\Program Files\Microsoft Office\Office1
+>>[2023-04-04 02:40:24] Office2021 License path£º C:\Program Files\Microsoft Office\root\Licenses1
+>>[2023-04-04 02:40:24] Office2019 _OfficeExistCheck_Local Office2019 = 0
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail
+
+>>[2023-04-04 02:40:24] Office2019 Install path£º
+>>[2023-04-04 02:40:24] Office2019 License path£º
+>>[2023-04-04 02:40:24] Office2016 _OfficeExistCheck_Local Office2016 = 1
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail
+
+>>[2023-04-04 02:40:24] Office2016 Install path£º C:\Program Files\Microsoft Office\Office1
+>>[2023-04-04 02:40:24] Office2016 License path£º C:\Program Files\Microsoft Office\root\Licenses1
+>>[2023-04-04 02:40:24] Office2013 _OfficeExistCheck_Local Office2013 = 0
+ C2R =  MSI = 0 PRIds = 
+
+>>[2023-04-04 02:40:24] Office2013 Install path£º
+>>[2023-04-04 02:40:24] Office2013 License path£º
+>>[2023-04-04 02:40:24] Office2010 _OfficeExistCheck_Local Office2010 = 0
+ C2R =  MSI = 0 PRIds = 
+
+>>[2023-04-04 02:40:24] Office2010 Install path£º
+>>[2023-04-04 02:40:24] Office2010 License path£º
+>>[2023-04-04 02:40:24] osppsvc [Not Found]
+>>[2023-04-04 02:40:24] _C2R_R2V  Begining...
+>>[2023-04-04 02:40:25] _C2R_R2V  Office16 C2R is found:
+ProPlus2021Retail
+HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration
+HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\ProductReleaseIDs\1977304E-7245-42FC-AF40-9012627E5629
+C:\Program Files\Microsoft Office\root\Licenses16
+C:\Program Files\Microsoft Office\root\integration\integrator.exe
+>>[2023-04-04 02:40:25] _C2R_R2V  Office15 C2R is not found.
+>>[2023-04-04 02:40:25] Office2013 _OfficeExistCheck_MSI  MSI = 0
+
+>>[2023-04-04 02:40:26] _C2R_R2V SubO365: 0,,0,0,0
+
+>>[2023-04-04 02:40:26] Office2021 _OfficeExistCheck_Local Office2021 = 1
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail
+
+>>[2023-04-04 02:40:26] Office2019 _OfficeExistCheck_Local Office2019 = 0
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail
+
+>>[2023-04-04 02:40:26] Office2016 _OfficeExistCheck_Local Office2016 = 1
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail
+
+>>[2023-04-04 02:40:26] Office2013 _OfficeExistCheck_Local Office2013 = 0
+ C2R =  MSI = 0 PRIds = 
+
+>>[2023-04-04 02:40:26] _C2R_R2V Office Volume Check: 
+Windows(R), Professional edition
+Windows(R), ProfessionalEducation edition
+Windows(R), Enterprise edition
+Windows(R), ProfessionalWorkstation edition
+Windows(R), Education edition
+Windows(R), ServerRdsh edition
+Windows(R), ServerRdsh edition
+
+>>[2023-04-04 02:40:26] _C2R_R2V  Office Retail Check: 
+Office 21, Office21ProPlus2021R_OEM_Perp1 edition
+Office 21, Office21ProPlus2021R_OEM_Perp4 edition
+Office 21, Office21ProPlus2021R_Trial2 edition
+Office 21, Office21ProPlus2021MSDNR_Retail edition
+Office 21, Office21ProPlus2021R_Trial1 edition
+Office 21, Office21ProPlus2021R_OEM_Perp3 edition
+Office 21, Office21ProPlus2021R_OEM_Perp2 edition
+Office 21, Office21ProPlus2021R_Retail edition
+Office 21, Office21ProPlus2021R_Grace edition
+Office 21, Office21ProPlus2021R_OEM_Perp5 edition
+Office 21, Office21ProPlus2021R_OEM_Perp6 edition
+Office 21, Office21ProPlus2021DemoR_BypassTrial180 edition
+
+>>[2023-04-04 02:40:26] _C2R_R2V LOC2021 RETExist VOLExist MSI RUN PRV PRR C16R= 1100100,HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration
+>>[2023-04-04 02:40:26] _C2R_R2V LOC2019 RETExist VOLExist MSI RUN PRV PRR C16R= 0000000,HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration
+>>[2023-04-04 02:40:26] _C2R_R2V Office16O365 = 
+>>[2023-04-04 02:40:26] _C2R_R2V LOC2016 RETExist VOLExist MSI RUN PRV PRR C16R= 1000100,HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration
+>>[2023-04-04 02:40:26] _C2R_R2V LOC2013 RETExist VOLExist MSI RUN C15R= 00000,
+>>[2023-04-04 02:40:27] _C2R_R2V Licensed Office Detected: 
+
+>>[2023-04-04 02:40:27] _C2R_R2V Begining to Clean Licenses: 
+>>[2023-04-04 02:40:30] Clean OSPP:Found 44 licenses to install.
+Number of Licenses Uninstalled = 44
+
+
+>>[2023-04-04 02:40:30] _C2R_R2V Office 2013-2021 Licensed detected: 
+
+>>[2023-04-04 02:40:30] _C2R_R2V Office 2013-2021 detected: 
+
+>>[2023-04-04 02:40:30] _C2R_R2V Office16 Retail Detected without installing VL License: 
+ProPlus2019 = 0;ProjectPro2019 = 0;VisioPro2019 = 0;Standard2019 = 0;ProjectStd2019 = 0;VisioStd2019 = 0;Access2019 = 0;SkypeforBusiness2019 = 0;Excel2019 = 0;Outlook2019 = 0;PowerPoint2019 = 0;Publisher2019 = 0;Word2019 = 0;Professional2019 = 0;HomeBusiness2019 = 0;HomeStudent2019 = 0;Mondo = 0;ProjectPro = 0;VisioPro = 0;Standard = 0;ProjectStd = 0;VisioStd = 0;Access = 0;SkypeforBusiness = 0;Excel = 0;Outlook = 0;PowerPoint = 0;Publisher = 0;Word = 0;OneNote = 0;Professional = 0;HomeBusiness = 0;HomeStudent = 0;O365ProPlus = 0;O365Business = 0;O365SmallBusPrem = 0;O365HomePrem = 0;O365EduCloud = 0;ProPlus = 0;ProPlus2021 = 1;ProjectPro2021 = 0;VisioPro2021 = 0;Standard2021 = 0;ProjectStd2021 = 0;VisioStd2021 = 0;Access2021 = 0;SkypeforBusiness2021 = 0;Excel2021 = 0;Outlook2021 = 0;PowerPoint2021 = 0;Publisher2021 = 0;Word2021 = 0;Professional2021 = 0;HomeBusiness2021 = 0;HomeStudent2021 = 0;
+>>[2023-04-04 02:40:30] _C2R_R2V Office16 Permernantly Retail Activated: 
+>>[2023-04-04 02:40:30] _C2R_R2V Office16 Retail Detected without installing VL License & Not Permernant Retail Activated(Need C2R_R2V): ProPlus2019 = 0;ProjectPro2019 = 0;VisioPro2019 = 0;Standard2019 = 0;ProjectStd2019 = 0;VisioStd2019 = 0;Access2019 = 0;SkypeforBusiness2019 = 0;Excel2019 = 0;Outlook2019 = 0;PowerPoint2019 = 0;Publisher2019 = 0;Word2019 = 0;Professional2019 = 0;HomeBusiness2019 = 0;HomeStudent2019 = 0;Mondo = 0;ProjectPro = 0;VisioPro = 0;Standard = 0;ProjectStd = 0;VisioStd = 0;Access = 0;SkypeforBusiness = 0;Excel = 0;Outlook = 0;PowerPoint = 0;Publisher = 0;Word = 0;OneNote = 0;Professional = 0;HomeBusiness = 0;HomeStudent = 0;O365ProPlus = 0;O365Business = 0;O365SmallBusPrem = 0;O365HomePrem = 0;O365EduCloud = 0;ProPlus = 0;ProPlus2021 = 1;ProjectPro2021 = 0;VisioPro2021 = 0;Standard2021 = 0;ProjectStd2021 = 0;VisioStd2021 = 0;Access2021 = 0;SkypeforBusiness2021 = 0;Excel2021 = 0;Outlook2021 = 0;PowerPoint2021 = 0;Publisher2021 = 0;Word2021 = 0;Professional2021 = 0;HomeBusiness2021 = 0;HomeStudent2021 = 0;
+>>[2023-04-04 02:40:30] Installing Office C2R Licenses:ProPlus2021Volume 
+>>[2023-04-04 02:40:36] RefreshLicenseStatus Windows ErrorCode = 0x00000000
+>>[2023-04-04 02:40:36] Office2021 _OfficeExistCheck_Local Office2021 = 1
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail,ProPlus2021Volume
+
+>>[2023-04-04 02:40:36] Office2021 Install path£º C:\Program Files\Microsoft Office\Office1
+>>[2023-04-04 02:40:36] Office2021 License path£º C:\Program Files\Microsoft Office\root\Licenses1
+>>[2023-04-04 02:40:36] _Check_Office_Info Office2021 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =1
+>>[2023-04-04 02:40:36] _CheckOfficeVOL_Licensestatus Office2021 :
+
+
+>>[2023-04-04 02:40:37] _InstallOfficeKey FXYTK-NJJ8C-GB6DW-3DYQT-6F7TH = 0
+
+>>[2023-04-04 02:40:37] Office2019 _OfficeExistCheck_Local Office2019 = 0
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail,ProPlus2021Volume
+
+>>[2023-04-04 02:40:37] Office2019 Install path£º
+>>[2023-04-04 02:40:37] Office2019 License path£º
+>>[2023-04-04 02:40:37] Office2016 _OfficeExistCheck_Local Office2016 = 1
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail,ProPlus2021Volume
+
+>>[2023-04-04 02:40:37] Office2016 Install path£º C:\Program Files\Microsoft Office\Office1
+>>[2023-04-04 02:40:37] Office2016 License path£º C:\Program Files\Microsoft Office\root\Licenses1
+>>[2023-04-04 02:40:37] _Check_Office_Info Office2016 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =0
+>>[2023-04-04 02:40:38] _CheckOfficeVOL_Licensestatus Office2016 :
+
+
+>>[2023-04-04 02:40:38] Office2013 _OfficeExistCheck_Local Office2013 = 0
+ C2R =  MSI = 0 PRIds = 
+
+>>[2023-04-04 02:40:38] Office2013 Install path£º
+>>[2023-04-04 02:40:38] Office2013 License path£º
+>>[2023-04-04 02:40:38] _MSI_R2V  Begining...
+>>[2023-04-04 02:40:38] Office2010 _OfficeExistCheck_Local Office2010 = 0
+ C2R =  MSI = 0 PRIds = 
+
+>>[2023-04-04 02:40:38] _MSI_R2V Office 2010 is not detected.
+>>[2023-04-04 02:40:38] Office2013 _OfficeExistCheck_MSI  MSI = 0
+
+>>[2023-04-04 02:40:38] _MSI_R2V Office 2013 is not detected.
+>>[2023-04-04 02:40:38] Office2016 _OfficeExistCheck_MSI  MSI = 0
+
+>>[2023-04-04 02:40:38]  _OfficeUWPExist OfficeExist = 0
+
+>>[2023-04-04 02:40:38] Office2016 _OfficeExistCheck_Local Office2016 = 1
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail,ProPlus2021Volume
+
+>>[2023-04-04 02:40:38] _MSI_R2V Office 2016 is not detected.
+>>[2023-04-04 02:40:38] Office2019 _OfficeExistCheck_Local Office2019 = 0
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Retail,ProPlus2021Volume
+
+>>[2023-04-04 02:40:38] _MSI_R2V Office 2019 is not detected.
+>>[2023-04-04 02:40:38] _Check_Office_Info Office2021 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =1
+>>[2023-04-04 02:40:38] _Check_Office_Info Office2019 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =0
+>>[2023-04-04 02:40:39] _Check_Office_Info Office2016 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =0
+>>[2023-04-04 02:40:39] _Check_Office_Info Office2013 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =0
+>>[2023-04-04 02:40:39] _Check_Office_Info Office2010 :
+
+
+ Office VL =0
+>>[2023-04-04 02:40:39] sppsvc [Status:Stopped]
+>>[2023-04-04 02:40:40] osppsvc [Not Found]
+>>[2023-04-04 02:40:40] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Del = 0
+>>[2023-04-04 02:40:41] Remove Microsoft Defender Exclusion ErrorCode:0
+;0
+
+>>[2023-04-04 02:40:41] Del NoGenTicket = 0
+>>[2023-04-04 02:40:41] SECOPatcher.dll [Not Found]
+>>[2023-04-04 02:40:41] _DelSECOPatcher Remove vlmcsd = Service vlmcsd does not exist.
+
+>>[2023-04-04 02:40:41] _DelSECOPatcher Del kms-server.exe = 0
+>>[2023-04-04 02:40:41] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Del = 0
+>>[2023-04-04 02:40:41] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\sppsvc.exe Del = 0
+>>[2023-04-04 02:40:41] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\osppsvc.exe Del = 0
+>>[2023-04-04 02:40:41] SppExtComObjHook.dll [Not Found]
+>>[2023-04-04 02:40:41] Remove Microsoft Defender Exclusion ErrorCode:0
+
+>>[2023-04-04 02:40:41] _StartKMSServer KMSMode = 1
+>>[2023-04-04 02:40:42] _CheckPort [1688:OK]
+>>[2023-04-04 02:40:43] Add Microsoft Defender Exclusion ErrorCode:0
+;0
+
+>>[2023-04-04 02:40:43] Add NoGenTicket = 1
+>>[2023-04-04 02:40:43] Copy SECOPatcher = 1    C:\windows\System32
+>>[2023-04-04 02:40:43] ·¢ÏÖ SID: C:\windows\System32\SECOPatcher.dll¡£
+ÒÑ³É¹¦´¦Àí 1 ¸öÎÄ¼þ; ´¦Àí 0 ¸öÎÄ¼þÊ±Ê§°Ü
+
+ÒÑ´¦ÀíµÄÎÄ¼þ: C:\windows\System32\SECOPatcher.dll
+Ò
+>>[2023-04-04 02:40:43] Add Debugger = 1
+>>[2023-04-04 02:40:43] Copy kms-server.exe = 1    C:\windows\System32
+>>[2023-04-04 02:40:44] vlmcsd [Succeed to start]
+>>[2023-04-04 02:40:45] _CheckLocalKMSServer Mode1 [Files Complete]
+>>[2023-04-04 02:40:45] _TcpClientConnect->127.0.0.2:1688[Succeed]
+>>[2023-04-04 02:40:45] sppsvc [Status:Running]
+>>[2023-04-04 02:40:46] _CheckOfficeVOL_Licensestatus Office2021 :
+
+
+>>[2023-04-04 02:40:46] sppsvc [Status:Running]
+>>[2023-04-04 02:40:46] WinMgmt [Status:Running]
+>>[2023-04-04 02:40:46] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2023-04-04 02:40:46] HKU64\S-1-5-20\Software\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2023-04-04 02:40:46] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2023-04-04 02:40:46] HKU64\S-1-5-20\Software\Microsoft\Windows NT\CurrentVersion\OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2023-04-04 02:40:46] HKLM64\SOFTWARE\Microsoft\OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2023-04-04 02:40:47] HKU64\S-1-5-20\SOFTWARE\Microsoft\OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2023-04-04 02:40:47] KMS Name and Port = 1,1,1,1
+>>[2023-04-04 02:40:47] Fixbanner = 1,1,1,1
+>>[2023-04-04 02:40:47] Install Office Key FXYTK-NJJ8C-GB6DW-3DYQT-6F7TH Error Code = 0
+
+>>[2023-04-04 02:40:59] _ActivateOffice Error Code = 0x00000000
+>>[2023-04-04 02:40:59] _CheckOfficeVOL_Licensestatus Office2016 :
+
+
+>>[2023-04-04 02:40:59]  _OfficeUWPExist OfficeExist = 0
+
+>>[2023-04-04 02:41:00] ³É¹¦: ³É¹¦´´½¨¼Æ»®ÈÎÎñ "\Microsoft\Windows\SoftwareProtectionPlatform\SvcTrigger"¡£
+ÐÅÏ¢: ÒÑÆôÓÃ¼Æ»®µÄÈÎÎñ "\Microsoft\Windows\SoftwareProtectionPlatform\SvcTrigger"¡£
+³É¹¦: ¸ü¸ÄÁË¼Æ»®ÈÎÎñ "\Microsoft\Windows\SoftwareProtec
+>>[2023-04-04 02:41:00] _CheckLocalKMSServer Mode1 [Files Complete]
+>>[2023-04-04 02:41:00] _RenewalCheck = 1
+>>[2023-04-05 15:12:46] CLICK <Smart_Btn>......
+HEU KMS Activator 27.0.0 Activate Windows=1 Activate Office=0 Digital/KMS38=1 OEM Activate=0 Office R2V=0 KMS Online=0 KMS Renewal=1 Debug Log=1 
+Windows 10 Pro X64 Build 19045 Activate Option 1;[WinMgmt]-Normal;[SPPSVC]-Normal;
+>>[2023-04-05 15:12:49] sppsvc [Status:Running]
+>>[2023-04-05 15:12:50] _CheckWindowsLicensestatus Name = Windows(R), Professional edition,  GracePeriodRemaining = 0
+>>[2023-04-05 15:12:50] _CheckWindowsLicensestatus = 0
+>>[2023-04-05 15:12:50] _TcpClientConnect->20.198.129.167:443[Succeed]
+>>[2023-04-05 15:12:50] _CheckWindowsInfo_Digital OperatingSystemSKU = 48
+>>[2023-04-05 15:12:50] _CheckWindowsInfo_Digital BuildBranch = vb_release
+>>[2023-04-05 15:12:50] _CheckWindowsInfo_Digital 
+Windows Edition=Professional
+Windows Digital Key=VK7JG-NPHTM-C97JM-9MPGT-3V66T
+Windows ID=4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+>>[2023-04-05 15:12:50] _DigitalActivate ARM = 0
+>>[2023-04-05 15:12:50] _ServiceErrorCheck ClipSVC=3[Disable=4;Demand=3;Auto=2]
+>>[2023-04-05 15:12:56] ClipSVC [Succeed to start]
+>>[2023-04-05 15:12:58] _ServiceRunCheck ClipSVC[Succeed]
+>>[2023-04-05 15:12:58] _ServiceErrorCheck wlidsvc=3[Disable=4;Demand=3;Auto=2]
+>>[2023-04-05 15:13:04] wlidsvc [Succeed to start]
+>>[2023-04-05 15:13:05] _ServiceRunCheck wlidsvc[Succeed]
+>>[2023-04-05 15:13:05] _ServiceErrorCheck sppsvc=2[Disable=4;Demand=3;Auto=2]
+>>[2023-04-05 15:13:07] _ServiceRunCheck sppsvc[Succeed]
+>>[2023-04-05 15:13:07] _ServiceErrorCheck LicenseManager=3[Disable=4;Demand=3;Auto=2]
+>>[2023-04-05 15:13:08] _ServiceRunCheck LicenseManager[Succeed]
+>>[2023-04-05 15:13:08] _ServiceErrorCheck Winmgmt=2[Disable=4;Demand=3;Auto=2]
+>>[2023-04-05 15:13:10] _ServiceRunCheck Winmgmt[Succeed]
+>>[2023-04-05 15:13:10] _ServiceErrorCheck wuauserv=3[Disable=4;Demand=3;Auto=2]
+>>[2023-04-05 15:13:17] wuauserv [Succeed to start]
+>>[2023-04-05 15:13:19] _ServiceRunCheck wuauserv[Succeed]
+>>[2023-04-05 15:13:19] Found PersistedTSReArmed [System Requires Restart]
+>>[2023-04-05 15:13:19] Found PersistedSystemState [System Requires Restart]
+>>[2023-04-05 15:13:19] _TcpClientConnect->20.198.129.167:443[Succeed]
+>>[2023-04-05 15:13:20] _DigitalActivate InstallWindowsKey ErrorCode = 0x00000000
+>>[2023-04-05 15:13:21] _Generate_GenuineTicket C:\ProgramData\Microsoft\Windows\ClipSVC\GenuineTicket\GenuineTicket.xml
+SessionId=OSMajorVersion=5;OSMinorVersion=1;OSPlatformId=2;PP=0;Pfn=Microsoft.Windows.48.X19-98841_8wekyb3d8bbwe;DownlevelGenuineState=1; 
+TwBTAE0AYQBqAG8AcgBWAGUAcgBzAGkAbwBuAD0ANQA7AE8AUwBNAGkAbgBvAHIAVgBlAHIAcwBpAG8AbgA9ADEAOwBPAFMAUABsAGEAdABmAG8AcgBtAEkAZAA9ADIAOwBQAFAAPQAwADsAUABmAG4APQBNAGkAYwByAG8AcwBvAGYAdAAuAFcAaQBuAGQAbwB3AHMALgA0ADgALgBYADEAOQAtADkAOAA4ADQAMQBfADgAdwBlAGsAeQBiADMAZAA4AGIAYgB3AGUAOwBEAG8AdwBuAGwAZQB2AGUAbABHAGUAbgB1AGkAbgBlAFMAdABhAHQAZQA9ADEAOwAAAA==  
+ > > [ 2 0 2 3 - 0 4 - 0 5   1 5 : 1 3 : 2 9 ]  ClipSVC Service Restart Method [Succeed]
+>>[2023-04-05 15:14:36] Activating Windows ErrorCode = 0x80072EFE
+>>[2023-04-05 15:14:37] _CheckWindowsLicensestatus Name = Windows(R), Professional edition,  GracePeriodRemaining = 0
+>>[2023-04-05 15:14:37] _CheckWindowsLicensestatus = 0
+>>[2023-04-05 15:14:37] _CheckWindowsInfo_Digital OperatingSystemSKU = 48
+>>[2023-04-05 15:14:37] _CheckWindowsInfo_Digital BuildBranch = vb_release
+>>[2023-04-05 15:14:38] _CheckWindowsInfo_Digital 
+Windows Edition=Professional
+Windows Digital Key=W269N-WFGWX-YVC9B-4J6C9-T83GX
+Windows ID=2de67392-b7a7-462a-b1ca-108dd189f588
+>>[2023-04-05 15:14:38] _DigitalActivate ARM = 0
+>>[2023-04-05 15:14:38] _ServiceErrorCheck ClipSVC=3[Disable=4;Demand=3;Auto=2]
+>>[2023-04-05 15:14:39] _ServiceRunCheck ClipSVC[Succeed]
+>>[2023-04-05 15:14:39] _ServiceErrorCheck sppsvc=2[Disable=4;Demand=3;Auto=2]
+>>[2023-04-05 15:14:41] _ServiceRunCheck sppsvc[Succeed]
+>>[2023-04-05 15:14:41] _ServiceErrorCheck Winmgmt=2[Disable=4;Demand=3;Auto=2]
+>>[2023-04-05 15:14:42] _ServiceRunCheck Winmgmt[Succeed]
+>>[2023-04-05 15:14:42] Found PersistedTSReArmed [System Requires Restart]
+>>[2023-04-05 15:14:42] Found PersistedSystemState [System Requires Restart]
+>>[2023-04-05 15:14:42] _TcpClientConnect->20.198.129.167:443[Succeed]
+>>[2023-04-05 15:14:44] _DigitalActivate InstallWindowsKey ErrorCode = 0x00000000
+>>[2023-04-05 15:14:44] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\55c92734-d682-4d71-983e-d6ec3f16059f Del = 0
+>>[2023-04-05 15:14:44] HKU64\S-1-5-20\Software\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\55c92734-d682-4d71-983e-d6ec3f16059f Del = 0
+>>[2023-04-05 15:14:44] KeyManagementServiceName Del = 1
+>>[2023-04-05 15:14:44] KeyManagementServicePort Del = 1
+>>[2023-04-05 15:14:44] KeyManagementServiceName 127.0.0.2 Add = 1
+>>[2023-04-05 15:14:44] KeyManagementServicePort 1688 Add = 1
+>>[2023-04-05 15:14:44] _Generate_GenuineTicket C:\ProgramData\Microsoft\Windows\ClipSVC\GenuineTicket\GenuineTicket.xml
+SessionId=
+TwBTAE0AYQBqAG8AcgBWAGUAcgBzAGkAbwBuAD0ANQA7AE8AUwBNAGkAbgBvAHIAVgBlAHIAcwBpAG8AbgA9ADEAOwBPAFMAUABsAGEAdABmAG8AcgBtAEkAZAA9ADIAOwBQAFAAPQAwADsARwBWAEwASwBFAHgAcAA9ADIAMAAzADgALQAwADEALQAxADkAVAAwADMAOgAxADQAOgAwADcAWgA7AEQAbwB3AG4AbABlAHYAZQBsAEcAZQBuAHUAaQBuAGUAUwB0AGEAdABlAD0AMQA7AAAA
+>>[2023-04-05 15:14:53] ClipSVC Service Restart Method [Succeed]
+>>[2023-04-05 15:14:54] _CheckWindowsLicensestatus Name = Windows(R), Professional edition,  GracePeriodRemaining = 7780079
+>>[2023-04-05 15:14:54] _CheckWindowsLicensestatus = 2
+>>[2023-04-05 15:14:54] _KMS38Protect IDList: 
+2de67392-b7a7-462a-b1ca-108dd189f588
+>>[2023-04-05 15:14:57] _KMS38Protect TakeOwnerShip = 1(Reg =1,0,1,1)
+>>[2023-04-06 09:12:10] CLICK <Smart_Btn>......
+HEU KMS Activator 27.0.0 Activate Windows=1 Activate Office=0 Digital/KMS38=1 OEM Activate=1 Office R2V=0 KMS Online=0 KMS Renewal=1 Debug Log=1 
+Windows 10 Pro X64 Build 19045 Activate Option 1;[WinMgmt]-Normal;[SPPSVC]-Normal;
+>>[2023-04-06 09:12:12] sppsvc [Status:Running]
+>>[2023-04-06 09:12:12] _CheckWindowsLicensestatus Name = Windows(R), Professional edition,  GracePeriodRemaining = 0
+>>[2023-04-06 09:12:12] _CheckWindowsLicensestatus = 0
+>>[2023-04-06 09:12:12] _TcpClientConnect->20.198.129.167:443[Succeed]
+>>[2023-04-06 09:12:12] _CheckWindowsInfo_Digital OperatingSystemSKU = 48
+>>[2023-04-06 09:12:12] _CheckWindowsInfo_Digital BuildBranch = vb_release
+>>[2023-04-06 09:12:13] _CheckWindowsInfo_Digital 
+Windows Edition=Professional
+Windows Digital Key=VK7JG-NPHTM-C97JM-9MPGT-3V66T
+Windows ID=4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+>>[2023-04-06 09:12:13] _DigitalActivate ARM = 0
+>>[2023-04-06 09:12:13] _ServiceErrorCheck ClipSVC=3[Disable=4;Demand=3;Auto=2]
+>>[2023-04-06 09:12:15] _ServiceRunCheck ClipSVC[Succeed]
+>>[2023-04-06 09:12:15] _ServiceErrorCheck wlidsvc=3[Disable=4;Demand=3;Auto=2]
+>>[2023-04-06 09:12:18] _ServiceRunCheck wlidsvc[Succeed]
+>>[2023-04-06 09:12:18] _ServiceErrorCheck sppsvc=2[Disable=4;Demand=3;Auto=2]
+>>[2023-04-06 09:12:19] _ServiceRunCheck sppsvc[Succeed]
+>>[2023-04-06 09:12:19] _ServiceErrorCheck LicenseManager=3[Disable=4;Demand=3;Auto=2]
+>>[2023-04-06 09:12:21] _ServiceRunCheck LicenseManager[Succeed]
+>>[2023-04-06 09:12:21] _ServiceErrorCheck Winmgmt=2[Disable=4;Demand=3;Auto=2]
+>>[2023-04-06 09:12:22] _ServiceRunCheck Winmgmt[Succeed]
+>>[2023-04-06 09:12:22] _ServiceErrorCheck wuauserv=3[Disable=4;Demand=3;Auto=2]
+>>[2023-04-06 09:15:31] CLICK <Smart_Btn>......
+HEU KMS Activator 27.0.0 Activate Windows=1 Activate Office=0 Digital/KMS38=1 OEM Activate=1 Office R2V=0 KMS Online=0 KMS Renewal=1 Debug Log=1 
+Windows 10 Pro X64 Build 19045 Activate Option 1;[WinMgmt]-Normal;[SPPSVC]-Normal;
+>>[2023-04-06 09:15:34] sppsvc [Status:Running]
+>>[2023-04-06 09:15:34] _CheckWindowsLicensestatus Name = Windows(R), Professional edition,  GracePeriodRemaining = 0
+>>[2023-04-06 09:15:34] _CheckWindowsLicensestatus = 0
+>>[2023-04-06 09:15:34] _TcpClientConnect->20.198.129.167:443[Failed]
+>>[2023-04-06 09:15:34] _CheckWindowsInfo_Digital OperatingSystemSKU = 48
+>>[2023-04-06 09:15:34] _CheckWindowsInfo_Digital BuildBranch = vb_release
+>>[2023-04-06 09:15:35] _CheckWindowsInfo_Digital 
+Windows Edition=Professional
+Windows Digital Key=VK7JG-NPHTM-C97JM-9MPGT-3V66T
+Windows ID=4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+>>[2023-04-06 09:15:35] _DigitalActivate ARM = 0
+>>[2023-04-06 09:15:35] _ServiceErrorCheck ClipSVC=3[Disable=4;Demand=3;Auto=2]
+>>[2023-04-06 09:15:41] ClipSVC [Succeed to start]
+>>[2023-04-06 09:15:42] _ServiceRunCheck ClipSVC[Succeed]
+>>[2023-04-06 09:15:42] _ServiceErrorCheck wlidsvc=3[Disable=4;Demand=3;Auto=2]
+>>[2023-04-06 09:15:44] _ServiceRunCheck wlidsvc[Succeed]
+>>[2023-04-06 09:15:44] _ServiceErrorCheck sppsvc=2[Disable=4;Demand=3;Auto=2]
+>>[2023-04-06 09:15:45] _ServiceRunCheck sppsvc[Succeed]
+>>[2023-04-06 09:15:45] _ServiceErrorCheck LicenseManager=3[Disable=4;Demand=3;Auto=2]
+>>[2023-04-06 09:15:47] _ServiceRunCheck LicenseManager[Succeed]
+>>[2023-04-06 09:15:47] _ServiceErrorCheck Winmgmt=2[Disable=4;Demand=3;Auto=2]
+>>[2023-04-06 09:15:48] _ServiceRunCheck Winmgmt[Succeed]
+>>[2023-04-06 09:15:48] _ServiceErrorCheck wuauserv=3[Disable=4;Demand=3;Auto=2]
+>>[2023-04-06 09:15:50] _ServiceRunCheck wuauserv[Succeed]
+>>[2023-04-06 09:15:50] Found PersistedTSReArmed [System Requires Restart]
+>>[2023-04-06 09:15:50] Found PersistedSystemState [System Requires Restart]
+>>[2023-04-06 09:15:50] _TcpClientConnect->20.198.129.167:443[Failed]
+>>[2023-04-06 09:15:50] licensing.mp.microsoft.com[No Responding]
+>>[2023-04-06 09:15:51] _DigitalActivate InstallWindowsKey ErrorCode = 0x00000000
+>>[2023-04-06 09:15:52] _Generate_GenuineTicket C:\ProgramData\Microsoft\Windows\ClipSVC\GenuineTicket\GenuineTicket.xml
+SessionId=OSMajorVersion=5;OSMinorVersion=1;OSPlatformId=2;PP=0;Pfn=Microsoft.Windows.48.X19-98841_8wekyb3d8bbwe;DownlevelGenuineState=1; 
+TwBTAE0AYQBqAG8AcgBWAGUAcgBzAGkAbwBuAD0ANQA7AE8AUwBNAGkAbgBvAHIAVgBlAHIAcwBpAG8AbgA9ADEAOwBPAFMAUABsAGEAdABmAG8AcgBtAEkAZAA9ADIAOwBQAFAAPQAwADsAUABmAG4APQBNAGkAYwByAG8AcwBvAGYAdAAuAFcAaQBuAGQAbwB3AHMALgA0ADgALgBYADEAOQAtADkAOAA4ADQAMQBfADgAdwBlAGsAeQBiADMAZAA4AGIAYgB3AGUAOwBEAG8AdwBuAGwAZQB2AGUAbABHAGUAbgB1AGkAbgBlAFMAdABhAHQAZQA9ADEAOwAAAA==
+>>[2023-04-06 09:16:00] ClipSVC Service Restart Method [Succeed]
+>>[2023-04-06 09:16:55] Activating Windows ErrorCode = 0x00000000
+>>[2023-04-06 09:16:56] _CheckWindowsLicensestatus Name = Windows(R), Professional edition,  GracePeriodRemaining = 0
+>>[2023-04-06 09:16:56] _CheckWindowsLicensestatus = 1
+>>[2023-05-03 17:27:38] CLICK <Smart_Btn>......
+HEU KMS Activator 27.0.0 Activate Windows=1 Activate Office=0 Digital/KMS38=1 OEM Activate=0 Office R2V=0 KMS Online=0 KMS Renewal=1 Debug Log=1 
+Windows 10 Pro X64 Build 19045 Activate Option 1;[WinMgmt]-Normal;[SPPSVC]-Normal;
+>>[2023-05-03 17:27:42] sppsvc [Status:Running]
+>>[2023-05-03 17:27:42] _CheckWindowsLicensestatus Name = Windows(R), Professional edition,  GracePeriodRemaining = 0
+>>[2023-05-03 17:27:42] _CheckWindowsLicensestatus = 0
+>>[2023-05-03 17:27:43] _TcpClientConnect->20.197.103.14:443[Failed]
+>>[2023-05-03 17:27:43] _CheckWindowsInfo_Digital OperatingSystemSKU = 48
+>>[2023-05-03 17:27:43] _CheckWindowsInfo_Digital BuildBranch = vb_release
+>>[2023-05-03 17:27:43] _CheckWindowsInfo_Digital 
+Windows Edition=Professional
+Windows Digital Key=VK7JG-NPHTM-C97JM-9MPGT-3V66T
+Windows ID=4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+>>[2023-05-03 17:27:43] _DigitalActivate ARM = 0
+>>[2023-05-03 17:27:43] _ServiceErrorCheck ClipSVC=3[Disable=4;Demand=3;Auto=2]
+>>[2023-05-03 17:27:44] _ServiceRunCheck ClipSVC[Succeed]
+>>[2023-05-03 17:27:44] _ServiceErrorCheck wlidsvc=3[Disable=4;Demand=3;Auto=2]
+>>[2023-05-03 17:27:46] _ServiceRunCheck wlidsvc[Succeed]
+>>[2023-05-03 17:27:46] _ServiceErrorCheck sppsvc=2[Disable=4;Demand=3;Auto=2]
+>>[2023-05-03 17:27:48] _ServiceRunCheck sppsvc[Succeed]
+>>[2023-05-03 17:27:48] _ServiceErrorCheck LicenseManager=3[Disable=4;Demand=3;Auto=2]
+>>[2023-05-03 17:27:54] LicenseManager [Succeed to start]
+>>[2023-05-03 17:27:55] _ServiceRunCheck LicenseManager[Succeed]
+>>[2023-05-03 17:27:55] _ServiceErrorCheck Winmgmt=2[Disable=4;Demand=3;Auto=2]
+>>[2023-05-03 17:27:57] _ServiceRunCheck Winmgmt[Succeed]
+>>[2023-05-03 17:27:57] _ServiceErrorCheck wuauserv=3[Disable=4;Demand=3;Auto=2]
+>>[2023-05-03 17:27:58] _ServiceRunCheck wuauserv[Succeed]
+>>[2023-05-03 17:27:58] Found PersistedTSReArmed [System Requires Restart]
+>>[2023-05-03 17:27:58] Found PersistedSystemState [System Requires Restart]
+>>[2023-05-03 17:27:58] _TcpClientConnect->20.197.103.14:443[Failed]
+>>[2023-05-03 17:27:58] licensing.mp.microsoft.com[No Responding]
+>>[2023-05-03 17:28:00] _DigitalActivate InstallWindowsKey ErrorCode = 0x0000000000000000
+>>[2023-05-03 17:28:00] _Generate_GenuineTicket C:\ProgramData\Microsoft\Windows\ClipSVC\GenuineTicket\GenuineTicket.xml
+SessionId=OSMajorVersion=5;OSMinorVersion=1;OSPlatformId=2;PP=0;Pfn=Microsoft.Windows.48.X19-98841_8wekyb3d8bbwe;DownlevelGenuineState=1; 
+TwBTAE0AYQBqAG8AcgBWAGUAcgBzAGkAbwBuAD0ANQA7AE8AUwBNAGkAbgBvAHIAVgBlAHIAcwBpAG8AbgA9ADEAOwBPAFMAUABsAGEAdABmAG8AcgBtAEkAZAA9ADIAOwBQAFAAPQAwADsAUABmAG4APQBNAGkAYwByAG8AcwBvAGYAdAAuAFcAaQBuAGQAbwB3AHMALgA0ADgALgBYADEAOQAtADkAOAA4ADQAMQBfADgAdwBlAGsAeQBiADMAZAA4AGIAYgB3AGUAOwBEAG8AdwBuAGwAZQB2AGUAbABHAGUAbgB1AGkAbgBlAFMAdABhAHQAZQA9ADEAOwAAAA==
+>>[2023-05-03 17:28:09] ClipSVC Service Restart Method [Succeed]
+>>[2023-05-03 17:28:11] Activating Windows ErrorCode = 0x00000000
+>>[2023-05-03 17:28:13] _CheckWindowsLicensestatus Name = Windows(R), Professional edition,  GracePeriodRemaining = 0
+>>[2023-05-03 17:28:13] _CheckWindowsLicensestatus = 1
+>>[2023-06-22 05:30:34] CLICK <Smart_Btn>......
+HEU KMS Activator 27.0.0 Activate Windows=1 Activate Office=0 Digital/KMS38=1 OEM Activate=0 Office R2V=0 KMS Online=0 KMS Renewal=1 Debug Log=1 
+Windows 10 Pro X64 Build 19045 Activate Option 1;[WinMgmt]-Normal;[SPPSVC]-Normal;
+>>[2023-06-22 05:30:36] sppsvc [Status:Running]
+>>[2023-06-22 05:30:36] _CheckWindowsLicensestatus Name = Windows(R), Professional edition,  GracePeriodRemaining = 0
+>>[2023-06-22 05:30:36] _CheckWindowsLicensestatus = 0
+>>[2023-06-22 05:30:36] _TcpClientConnect->20.197.103.14:443[Succeed]
+>>[2023-06-22 05:30:36] _CheckWindowsInfo_Digital OperatingSystemSKU = 48
+>>[2023-06-22 05:30:36] _CheckWindowsInfo_Digital BuildBranch = vb_release
+>>[2023-06-22 05:30:36] _CheckWindowsInfo_Digital 
+Windows Edition=Professional
+Windows Digital Key=VK7JG-NPHTM-C97JM-9MPGT-3V66T
+Windows ID=4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+>>[2023-06-22 05:30:36] _DigitalActivate ARM = 0
+>>[2023-06-22 05:30:36] _ServiceErrorCheck ClipSVC=3[Disable=4;Demand=3;Auto=2]
+>>[2023-06-22 05:30:38] ClipSVC [Succeed to start]
+>>[2023-06-22 05:30:38] _ServiceRunCheck ClipSVC[Succeed]
+>>[2023-06-22 05:30:38] _ServiceErrorCheck wlidsvc=3[Disable=4;Demand=3;Auto=2]
+>>[2023-06-22 05:30:40] wlidsvc [Succeed to start]
+>>[2023-06-22 05:30:40] _ServiceRunCheck wlidsvc[Succeed]
+>>[2023-06-22 05:30:40] _ServiceErrorCheck sppsvc=2[Disable=4;Demand=3;Auto=2]
+>>[2023-06-22 05:30:41] _ServiceRunCheck sppsvc[Succeed]
+>>[2023-06-22 05:30:41] _ServiceErrorCheck LicenseManager=3[Disable=4;Demand=3;Auto=2]
+>>[2023-06-22 05:30:41] _ServiceRunCheck LicenseManager[Succeed]
+>>[2023-06-22 05:30:41] _ServiceErrorCheck Winmgmt=2[Disable=4;Demand=3;Auto=2]
+>>[2023-06-22 05:30:42] _ServiceRunCheck Winmgmt[Succeed]
+>>[2023-06-22 05:30:42] _ServiceErrorCheck wuauserv=3[Disable=4;Demand=3;Auto=2]
+>>[2023-06-22 05:30:43] wuauserv [Succeed to start]
+>>[2023-06-22 05:30:44] _ServiceRunCheck wuauserv[Succeed]
+>>[2023-06-22 05:30:44] Found PersistedTSReArmed [System Requires Restart]
+>>[2023-06-22 05:30:44] Found PersistedSystemState [System Requires Restart]
+>>[2023-06-22 05:30:44] _TcpClientConnect->20.197.103.14:443[Succeed]
+>>[2023-06-22 05:30:44] _DigitalActivate InstallWindowsKey ErrorCode = 0x00000000
+>>[2023-06-22 05:30:44] _Generate_GenuineTicket C:\ProgramData\Microsoft\Windows\ClipSVC\GenuineTicket\GenuineTicket.xml
+SessionId=OSMajorVersion=5;OSMinorVersion=1;OSPlatformId=2;PP=0;Pfn=Microsoft.Windows.48.X19-98841_8wekyb3d8bbwe;DownlevelGenuineState=1; 
+TwBTAE0AYQBqAG8AcgBWAGUAcgBzAGkAbwBuAD0ANQA7AE8AUwBNAGkAbgBvAHIAVgBlAHIAcwBpAG8AbgA9ADEAOwBPAFMAUABsAGEAdABmAG8AcgBtAEkAZAA9ADIAOwBQAFAAPQAwADsAUABmAG4APQBNAGkAYwByAG8AcwBvAGYAdAAuAFcAaQBuAGQAbwB3AHMALgA0ADgALgBYADEAOQAtADkAOAA4ADQAMQBfADgAdwBlAGsAeQBiADMAZAA4AGIAYgB3AGUAOwBEAG8AdwBuAGwAZQB2AGUAbABHAGUAbgB1AGkAbgBlAFMAdABhAHQAZQA9ADEAOwAAAA==
+>>[2023-06-22 05:30:53] ClipSVC Service Restart Method [Succeed]
+>>[2023-06-22 05:30:57] Activating Windows ErrorCode = 0x00000000
+>>[2023-06-22 05:30:58] _CheckWindowsLicensestatus Name = Windows(R), Professional edition,  GracePeriodRemaining = 0
+>>[2023-06-22 05:30:58] _CheckWindowsLicensestatus = 1
+>>[2023-06-23 08:52:32] CLICK <Smart_Btn>......
+HEU KMS Activator 27.0.0 Activate Windows=1 Activate Office=1 Digital/KMS38=1 OEM Activate=1 Office R2V=1 KMS Online=0 KMS Renewal=1 Debug Log=1 
+Windows 10 Pro X64 Build 19045 Activate Option 1;[WinMgmt]-Normal;[SPPSVC]-Normal;
+>>[2023-06-23 08:52:34] sppsvc [Status:Running]
+>>[2023-06-23 08:52:34] _CheckWindowsLicensestatus Name = Windows(R), Professional edition,  GracePeriodRemaining = 0
+>>[2023-06-23 08:52:34] _CheckWindowsLicensestatus = 1
+>>[2023-06-23 08:52:34] Office2021 _OfficeExistCheck_Local Office2021 = 1
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Volume
+
+>>[2023-06-23 08:52:34] Office2021 Install path£º C:\Program Files\Microsoft Office\Office1
+>>[2023-06-23 08:52:34] Office2021 License path£º C:\Program Files\Microsoft Office\root\Licenses1
+>>[2023-06-23 08:52:34] Office2019 _OfficeExistCheck_Local Office2019 = 0
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Volume
+
+>>[2023-06-23 08:52:34] Office2019 Install path£º
+>>[2023-06-23 08:52:34] Office2019 License path£º
+>>[2023-06-23 08:52:34] Office2016 _OfficeExistCheck_Local Office2016 = 1
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Volume
+
+>>[2023-06-23 08:52:35] Office2016 Install path£º C:\Program Files\Microsoft Office\Office1
+>>[2023-06-23 08:52:35] Office2016 License path£º C:\Program Files\Microsoft Office\root\Licenses1
+>>[2023-06-23 08:52:35] Office2013 _OfficeExistCheck_Local Office2013 = 0
+ C2R =  MSI = 0 PRIds = 
+
+>>[2023-06-23 08:52:35] Office2013 Install path£º
+>>[2023-06-23 08:52:35] Office2013 License path£º
+>>[2023-06-23 08:52:35] Office2010 _OfficeExistCheck_Local Office2010 = 0
+ C2R =  MSI = 0 PRIds = 
+
+>>[2023-06-23 08:52:35] Office2010 Install path£º
+>>[2023-06-23 08:52:35] Office2010 License path£º
+>>[2023-06-23 08:52:39] osppsvc [Succeed to start]
+>>[2023-06-23 08:52:39] _C2R_R2V  Begining...
+>>[2023-06-23 08:52:39] _C2R_R2V  Office16 C2R is found:
+ProPlus2021Volume
+HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration
+HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\ProductReleaseIDs\CFB76A5F-DBBA-4FB3-A620-223E83D47108
+C:\Program Files\Microsoft Office\root\Licenses16
+C:\Program Files\Microsoft Office\root\integration\integrator.exe
+>>[2023-06-23 08:52:40] _C2R_R2V  Office15 C2R is not found.
+>>[2023-06-23 08:52:40] Office2013 _OfficeExistCheck_MSI  MSI = 0
+
+>>[2023-06-23 08:52:40] _C2R_R2V SubO365: 0,,0,0,0
+
+>>[2023-06-23 08:52:40] Office2021 _OfficeExistCheck_Local Office2021 = 1
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Volume
+
+>>[2023-06-23 08:52:40] Office2019 _OfficeExistCheck_Local Office2019 = 0
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Volume
+
+>>[2023-06-23 08:52:40] Office2016 _OfficeExistCheck_Local Office2016 = 1
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Volume
+
+>>[2023-06-23 08:52:40] Office2013 _OfficeExistCheck_Local Office2013 = 0
+ C2R =  MSI = 0 PRIds = 
+
+>>[2023-06-23 08:52:41] _C2R_R2V Office Volume Check: 
+Windows(R), Professional edition
+Windows(R), ProfessionalEducation edition
+Windows(R), Enterprise edition
+Windows(R), ProfessionalWorkstation edition
+Windows(R), Education edition
+Windows(R), ServerRdsh edition
+Windows(R), ServerRdsh edition
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+>>[2023-06-23 08:52:41] _C2R_R2V  Office Retail Check: 
+Office 21, Office21ProPlus2021VL_MAK_AE1 edition
+Office 21, Office21ProPlus2021VL_MAK_AE2 edition
+Office 21, Office21ProPlus2021PreviewVL_MAK_AE edition
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+>>[2023-06-23 08:52:41] _C2R_R2V LOC2021 RETExist VOLExist MSI RUN PRV PRR C16R= 1010000,HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration
+>>[2023-06-23 08:52:41] _C2R_R2V LOC2019 RETExist VOLExist MSI RUN PRV PRR C16R= 0000000,HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration
+>>[2023-06-23 08:52:41] _C2R_R2V Office16O365 = 
+>>[2023-06-23 08:52:41] _C2R_R2V LOC2016 RETExist VOLExist MSI RUN PRV PRR C16R= 1000100,HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration
+>>[2023-06-23 08:52:41] _C2R_R2V LOC2013 RETExist VOLExist MSI RUN C15R= 00000,
+>>[2023-06-23 08:52:43] _C2R_R2V Licensed Office Detected: 
+
+>>[2023-06-23 08:52:43] _C2R_R2V Begining to Clean Licenses: 
+>>[2023-06-23 08:52:45] Clean OSPP:Found 20 licenses to install.
+Number of Licenses Uninstalled = 20
+
+
+>>[2023-06-23 08:52:45] _C2R_R2V Office 2013-2021 Licensed detected: 
+
+>>[2023-06-23 08:52:45] _C2R_R2V Office 2013-2021 detected: 
+
+>>[2023-06-23 08:52:45] _C2R_R2V Office16 Retail Detected without installing VL License: 
+ProPlus2019 = 0;ProjectPro2019 = 0;VisioPro2019 = 0;Standard2019 = 0;ProjectStd2019 = 0;VisioStd2019 = 0;Access2019 = 0;SkypeforBusiness2019 = 0;Excel2019 = 0;Outlook2019 = 0;PowerPoint2019 = 0;Publisher2019 = 0;Word2019 = 0;Professional2019 = 0;HomeBusiness2019 = 0;HomeStudent2019 = 0;Mondo = 0;ProjectPro = 0;VisioPro = 0;Standard = 0;ProjectStd = 0;VisioStd = 0;Access = 0;SkypeforBusiness = 0;Excel = 0;Outlook = 0;PowerPoint = 0;Publisher = 0;Word = 0;OneNote = 0;Professional = 0;HomeBusiness = 0;HomeStudent = 0;O365ProPlus = 0;O365Business = 0;O365SmallBusPrem = 0;O365HomePrem = 0;O365EduCloud = 0;ProPlus = 0;ProPlus2021 = 1;ProjectPro2021 = 0;VisioPro2021 = 0;Standard2021 = 0;ProjectStd2021 = 0;VisioStd2021 = 0;Access2021 = 0;SkypeforBusiness2021 = 0;Excel2021 = 0;Outlook2021 = 0;PowerPoint2021 = 0;Publisher2021 = 0;Word2021 = 0;Professional2021 = 0;HomeBusiness2021 = 0;HomeStudent2021 = 0;
+>>[2023-06-23 08:52:45] _C2R_R2V Office16 Permernantly Retail Activated: 
+>>[2023-06-23 08:52:45] _C2R_R2V Office16 Retail Detected without installing VL License & Not Permernant Retail Activated(Need C2R_R2V): ProPlus2019 = 0;ProjectPro2019 = 0;VisioPro2019 = 0;Standard2019 = 0;ProjectStd2019 = 0;VisioStd2019 = 0;Access2019 = 0;SkypeforBusiness2019 = 0;Excel2019 = 0;Outlook2019 = 0;PowerPoint2019 = 0;Publisher2019 = 0;Word2019 = 0;Professional2019 = 0;HomeBusiness2019 = 0;HomeStudent2019 = 0;Mondo = 0;ProjectPro = 0;VisioPro = 0;Standard = 0;ProjectStd = 0;VisioStd = 0;Access = 0;SkypeforBusiness = 0;Excel = 0;Outlook = 0;PowerPoint = 0;Publisher = 0;Word = 0;OneNote = 0;Professional = 0;HomeBusiness = 0;HomeStudent = 0;O365ProPlus = 0;O365Business = 0;O365SmallBusPrem = 0;O365HomePrem = 0;O365EduCloud = 0;ProPlus = 0;ProPlus2021 = 1;ProjectPro2021 = 0;VisioPro2021 = 0;Standard2021 = 0;ProjectStd2021 = 0;VisioStd2021 = 0;Access2021 = 0;SkypeforBusiness2021 = 0;Excel2021 = 0;Outlook2021 = 0;PowerPoint2021 = 0;Publisher2021 = 0;Word2021 = 0;Professional2021 = 0;HomeBusiness2021 = 0;HomeStudent2021 = 0;
+>>[2023-06-23 08:52:45] Installing Office C2R Licenses:ProPlus2021Volume 
+>>[2023-06-23 08:52:52] RefreshLicenseStatus Windows ErrorCode = 0x00000000
+>>[2023-06-23 08:52:52] Office2021 _OfficeExistCheck_Local Office2021 = 1
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Volume
+
+>>[2023-06-23 08:52:52] Office2021 Install path£º C:\Program Files\Microsoft Office\Office1
+>>[2023-06-23 08:52:52] Office2021 License path£º C:\Program Files\Microsoft Office\root\Licenses1
+>>[2023-06-23 08:52:52] _Check_Office_Info Office2021 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =1
+>>[2023-06-23 08:52:52] _CheckOfficeVOL_Licensestatus Office2021 :
+
+
+>>[2023-06-23 08:52:53] _InstallOfficeKey FXYTK-NJJ8C-GB6DW-3DYQT-6F7TH = 0
+
+>>[2023-06-23 08:52:53] Office2019 _OfficeExistCheck_Local Office2019 = 0
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Volume
+
+>>[2023-06-23 08:52:53] Office2019 Install path£º
+>>[2023-06-23 08:52:53] Office2019 License path£º
+>>[2023-06-23 08:52:53] Office2016 _OfficeExistCheck_Local Office2016 = 1
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Volume
+
+>>[2023-06-23 08:52:53] Office2016 Install path£º C:\Program Files\Microsoft Office\Office1
+>>[2023-06-23 08:52:53] Office2016 License path£º C:\Program Files\Microsoft Office\root\Licenses1
+>>[2023-06-23 08:52:53] _Check_Office_Info Office2016 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =0
+>>[2023-06-23 08:52:54] _CheckOfficeVOL_Licensestatus Office2016 :
+
+
+>>[2023-06-23 08:52:54] Office2013 _OfficeExistCheck_Local Office2013 = 0
+ C2R =  MSI = 0 PRIds = 
+
+>>[2023-06-23 08:52:54] Office2013 Install path£º
+>>[2023-06-23 08:52:54] Office2013 License path£º
+>>[2023-06-23 08:52:54] _MSI_R2V  Begining...
+>>[2023-06-23 08:52:54] Office2010 _OfficeExistCheck_Local Office2010 = 0
+ C2R =  MSI = 0 PRIds = 
+
+>>[2023-06-23 08:52:54] _MSI_R2V Office 2010 is not detected.
+>>[2023-06-23 08:52:54] Office2013 _OfficeExistCheck_MSI  MSI = 0
+
+>>[2023-06-23 08:52:54] _MSI_R2V Office 2013 is not detected.
+>>[2023-06-23 08:52:54] Office2016 _OfficeExistCheck_MSI  MSI = 0
+
+>>[2023-06-23 08:52:54]  _OfficeUWPExist OfficeExist = 0
+
+>>[2023-06-23 08:52:54] Office2016 _OfficeExistCheck_Local Office2016 = 1
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Volume
+
+>>[2023-06-23 08:52:54] _MSI_R2V Office 2016 is not detected.
+>>[2023-06-23 08:52:54] Office2019 _OfficeExistCheck_Local Office2019 = 0
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = ProPlus2021Volume
+
+>>[2023-06-23 08:52:54] _MSI_R2V Office 2019 is not detected.
+>>[2023-06-23 08:52:55] _Check_Office_Info Office2021 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =1
+>>[2023-06-23 08:52:55] _Check_Office_Info Office2019 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =0
+>>[2023-06-23 08:52:55] _Check_Office_Info Office2016 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =0
+>>[2023-06-23 08:52:55] _Check_Office_Info Office2013 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =0
+>>[2023-06-23 08:52:55] _Check_Office_Info Office2010 :
+Office 14, OfficeProPlus-KMS_Client edition
+
+6f327760-8c5c-417c-9b61-836a98287e0c
+
+ Office VL =1
+>>[2023-06-23 08:52:57] sppsvc [Status:Stopped]
+>>[2023-06-23 08:52:58] osppsvc [Status:Stopped]
+>>[2023-06-23 08:52:58] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Del = 0
+>>[2023-06-23 08:52:59] Remove Microsoft Defender Exclusion ErrorCode:0
+;0
+
+>>[2023-06-23 08:52:59] Del NoGenTicket = 0
+>>[2023-06-23 08:52:59] SECOPatcher.dll [Not Found]
+>>[2023-06-23 08:53:00] _DelSECOPatcher Remove vlmcsd = Service vlmcsd does not exist.
+
+>>[2023-06-23 08:53:00] _DelSECOPatcher Del kms-server.exe = 0
+>>[2023-06-23 08:53:00] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Del = 0
+>>[2023-06-23 08:53:00] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\sppsvc.exe Del = 0
+>>[2023-06-23 08:53:00] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\osppsvc.exe Del = 0
+>>[2023-06-23 08:53:00] SppExtComObjHook.dll [Not Found]
+>>[2023-06-23 08:53:00] Remove Microsoft Defender Exclusion ErrorCode:0
+
+>>[2023-06-23 08:53:00] _StartKMSServer KMSMode = 1
+>>[2023-06-23 08:53:01] _CheckPort [1688:OK]
+>>[2023-06-23 08:53:01] Add Microsoft Defender Exclusion ErrorCode:0
+;0
+
+>>[2023-06-23 08:53:01] Add NoGenTicket = 1
+>>[2023-06-23 08:53:01] Copy SECOPatcher = 1    C:\windows\System32
+>>[2023-06-23 08:53:02] ·¢ÏÖ SID: C:\windows\System32\SECOPatcher.dll¡£
+ÒÑ³É¹¦´¦Àí 1 ¸öÎÄ¼þ; ´¦Àí 0 ¸öÎÄ¼þÊ±Ê§°Ü
+
+ÒÑ´¦ÀíµÄÎÄ¼þ: C:\windows\System32\SECOPatcher.dll
+Ò
+>>[2023-06-23 08:53:02] Add Debugger = 1
+>>[2023-06-23 08:53:02] Copy kms-server.exe = 1    C:\windows\System32
+>>[2023-06-23 08:53:07] vlmcsd [Succeed to start]
+>>[2023-06-23 08:53:08] _CheckLocalKMSServer Mode1 [Files Complete]
+>>[2023-06-23 08:53:08] _TcpClientConnect->127.0.0.2:1688[Succeed]
+>>[2023-06-23 08:53:09] sppsvc [Status:Running]
+>>[2023-06-23 08:53:10] _CheckOfficeVOL_Licensestatus Office2021 :
+
+
+>>[2023-06-23 08:53:11] sppsvc [Status:Running]
+>>[2023-06-23 08:53:12] WinMgmt [Status:Running]
+>>[2023-06-23 08:53:13] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2023-06-23 08:53:13] HKU64\S-1-5-20\Software\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2023-06-23 08:53:13] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2023-06-23 08:53:13] HKU64\S-1-5-20\Software\Microsoft\Windows NT\CurrentVersion\OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2023-06-23 08:53:13] HKLM64\SOFTWARE\Microsoft\OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2023-06-23 08:53:13] HKU64\S-1-5-20\SOFTWARE\Microsoft\OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2023-06-23 08:53:13] KMS Name and Port = 1,1,1,1
+>>[2023-06-23 08:53:13] Fixbanner = 1,1,1,1
+>>[2023-06-23 08:53:13] Install Office Key FXYTK-NJJ8C-GB6DW-3DYQT-6F7TH Error Code = 0
+
+>>[2023-06-23 08:53:18] _ActivateOffice Error Code = 0x00000000
+>>[2023-06-23 08:53:19] _CheckOfficeVOL_Licensestatus Office2016 :
+
+
+>>[2023-06-23 08:53:19]  _OfficeUWPExist OfficeExist = 0
+
+>>[2023-06-23 08:53:20] ³É¹¦: ³É¹¦´´½¨¼Æ»®ÈÎÎñ "\Microsoft\Windows\SoftwareProtectionPlatform\SvcTrigger"¡£
+ÐÅÏ¢: ÒÑÆôÓÃ¼Æ»®µÄÈÎÎñ "\Microsoft\Windows\SoftwareProtectionPlatform\SvcTrigger"¡£
+³É¹¦: ¸ü¸ÄÁË¼Æ»®ÈÎÎñ "\Microsoft\Windows\SoftwareProtec
+>>[2023-06-23 08:53:20] _CheckLocalKMSServer Mode1 [Files Complete]
+>>[2023-06-23 08:53:20] _RenewalCheck = 1
+>>[2023-06-23 09:08:11] CLICK <Smart_Btn>......
+HEU KMS Activator 27.0.0 Activate Windows=1 Activate Office=1 Digital/KMS38=1 OEM Activate=1 Office R2V=1 KMS Online=0 KMS Renewal=1 Debug Log=1 
+Windows 10 Pro X64 Build 19045 Activate Option 1;[WinMgmt]-Normal;[SPPSVC]-Normal;
+>>[2023-06-23 09:08:14] sppsvc [Status:Running]
+>>[2023-06-23 09:08:15] _CheckWindowsLicensestatus Name = Windows(R), Professional edition,  GracePeriodRemaining = 0
+>>[2023-06-23 09:08:15] _CheckWindowsLicensestatus = 1
+>>[2023-06-23 09:08:15] Office2021 _OfficeExistCheck_Local Office2021 = 1
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = Professional2021Retail
+
+>>[2023-06-23 09:08:15] Office2021 Install path£º C:\Program Files\Microsoft Office\Office1
+>>[2023-06-23 09:08:15] Office2021 License path£º C:\Program Files\Microsoft Office\root\Licenses1
+>>[2023-06-23 09:08:15] Office2019 _OfficeExistCheck_Local Office2019 = 0
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = Professional2021Retail
+
+>>[2023-06-23 09:08:15] Office2019 Install path£º
+>>[2023-06-23 09:08:15] Office2019 License path£º
+>>[2023-06-23 09:08:16] Office2016 _OfficeExistCheck_Local Office2016 = 1
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = Professional2021Retail
+
+>>[2023-06-23 09:08:16] Office2016 Install path£º C:\Program Files\Microsoft Office\Office1
+>>[2023-06-23 09:08:16] Office2016 License path£º C:\Program Files\Microsoft Office\root\Licenses1
+>>[2023-06-23 09:08:16] Office2013 _OfficeExistCheck_Local Office2013 = 0
+ C2R =  MSI = 0 PRIds = 
+
+>>[2023-06-23 09:08:16] Office2013 Install path£º
+>>[2023-06-23 09:08:16] Office2013 License path£º
+>>[2023-06-23 09:08:16] Office2010 _OfficeExistCheck_Local Office2010 = 0
+ C2R =  MSI = 0 PRIds = 
+
+>>[2023-06-23 09:08:16] Office2010 Install path£º
+>>[2023-06-23 09:08:16] Office2010 License path£º
+>>[2023-06-23 09:08:18] osppsvc [Status:Running]
+>>[2023-06-23 09:08:18] _C2R_R2V  Begining...
+>>[2023-06-23 09:08:18] _C2R_R2V  Office16 C2R is found:
+Professional2021Retail
+HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration
+HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\ProductReleaseIDs\B16B0649-9A4E-4DEF-B372-9A97D41F7018
+C:\Program Files\Microsoft Office\root\Licenses16
+C:\Program Files\Microsoft Office\root\integration\integrator.exe
+>>[2023-06-23 09:08:18] _C2R_R2V  Office15 C2R is not found.
+>>[2023-06-23 09:08:18] Office2013 _OfficeExistCheck_MSI  MSI = 0
+
+>>[2023-06-23 09:08:19] _C2R_R2V SubO365: 0,,0,0,0
+
+>>[2023-06-23 09:08:19] Office2021 _OfficeExistCheck_Local Office2021 = 1
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = Professional2021Retail
+
+>>[2023-06-23 09:08:19] Office2019 _OfficeExistCheck_Local Office2019 = 0
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = Professional2021Retail
+
+>>[2023-06-23 09:08:19] Office2016 _OfficeExistCheck_Local Office2016 = 1
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = Professional2021Retail
+
+>>[2023-06-23 09:08:19] Office2013 _OfficeExistCheck_Local Office2013 = 0
+ C2R =  MSI = 0 PRIds = 
+
+>>[2023-06-23 09:08:19] _C2R_R2V Office Volume Check: 
+Windows(R), Professional edition
+Windows(R), ProfessionalEducation edition
+Windows(R), Enterprise edition
+Windows(R), ProfessionalWorkstation edition
+Windows(R), Education edition
+Windows(R), ServerRdsh edition
+Windows(R), ServerRdsh edition
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+>>[2023-06-23 09:08:19] _C2R_R2V  Office Retail Check: 
+Office 21, Office21ProPlus2021VL_MAK_AE1 edition
+Office 21, Office21Professional2021R_Trial edition
+Office 21, Office21ProPlus2021VL_MAK_AE2 edition
+Office 21, Office21Professional2021R_OEM_Perp edition
+Office 21, Office21Professional2021R_Retail edition
+Office 21, Office21Professional2021R_Grace edition
+Office 21, Office21ProPlus2021PreviewVL_MAK_AE edition
+Office 21, Office21Professional2021DemoR_BypassTrial180 edition
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+>>[2023-06-23 09:08:19] _C2R_R2V LOC2021 RETExist VOLExist MSI RUN PRV PRR C16R= 1110011,HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration
+>>[2023-06-23 09:08:20] _C2R_R2V LOC2019 RETExist VOLExist MSI RUN PRV PRR C16R= 0000000,HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration
+>>[2023-06-23 09:08:20] _C2R_R2V Office16O365 = 
+>>[2023-06-23 09:08:20] _C2R_R2V LOC2016 RETExist VOLExist MSI RUN PRV PRR C16R= 1000100,HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration
+>>[2023-06-23 09:08:20] _C2R_R2V LOC2013 RETExist VOLExist MSI RUN C15R= 00000,
+>>[2023-06-23 09:08:20] _C2R_R2V Licensed Office Detected: 
+
+>>[2023-06-23 09:08:20] _C2R_R2V Begining to Clean Licenses: 
+>>[2023-06-23 09:08:25] Clean OSPP:Found 35 licenses to install.
+Number of Licenses Uninstalled = 35
+
+
+>>[2023-06-23 09:08:25] _C2R_R2V Office 2013-2021 Licensed detected: 
+
+>>[2023-06-23 09:08:25] _C2R_R2V Office 2013-2021 detected: 
+
+>>[2023-06-23 09:08:25] _C2R_R2V Office16 Retail Detected without installing VL License: 
+ProPlus2019 = 0;ProjectPro2019 = 0;VisioPro2019 = 0;Standard2019 = 0;ProjectStd2019 = 0;VisioStd2019 = 0;Access2019 = 0;SkypeforBusiness2019 = 0;Excel2019 = 0;Outlook2019 = 0;PowerPoint2019 = 0;Publisher2019 = 0;Word2019 = 0;Professional2019 = 0;HomeBusiness2019 = 0;HomeStudent2019 = 0;Mondo = 0;ProjectPro = 0;VisioPro = 0;Standard = 0;ProjectStd = 0;VisioStd = 0;Access = 0;SkypeforBusiness = 0;Excel = 0;Outlook = 0;PowerPoint = 0;Publisher = 0;Word = 0;OneNote = 0;Professional = 0;HomeBusiness = 0;HomeStudent = 0;O365ProPlus = 0;O365Business = 0;O365SmallBusPrem = 0;O365HomePrem = 0;O365EduCloud = 0;ProPlus = 0;ProPlus2021 = 0;ProjectPro2021 = 0;VisioPro2021 = 0;Standard2021 = 0;ProjectStd2021 = 0;VisioStd2021 = 0;Access2021 = 0;SkypeforBusiness2021 = 0;Excel2021 = 0;Outlook2021 = 0;PowerPoint2021 = 0;Publisher2021 = 0;Word2021 = 0;Professional2021 = 1;HomeBusiness2021 = 0;HomeStudent2021 = 0;
+>>[2023-06-23 09:08:25] _C2R_R2V Office16 Permernantly Retail Activated: 
+>>[2023-06-23 09:08:25] _C2R_R2V Office16 Retail Detected without installing VL License & Not Permernant Retail Activated(Need C2R_R2V): ProPlus2019 = 0;ProjectPro2019 = 0;VisioPro2019 = 0;Standard2019 = 0;ProjectStd2019 = 0;VisioStd2019 = 0;Access2019 = 0;SkypeforBusiness2019 = 0;Excel2019 = 0;Outlook2019 = 0;PowerPoint2019 = 0;Publisher2019 = 0;Word2019 = 0;Professional2019 = 0;HomeBusiness2019 = 0;HomeStudent2019 = 0;Mondo = 0;ProjectPro = 0;VisioPro = 0;Standard = 0;ProjectStd = 0;VisioStd = 0;Access = 0;SkypeforBusiness = 0;Excel = 0;Outlook = 0;PowerPoint = 0;Publisher = 0;Word = 0;OneNote = 0;Professional = 0;HomeBusiness = 0;HomeStudent = 0;O365ProPlus = 0;O365Business = 0;O365SmallBusPrem = 0;O365HomePrem = 0;O365EduCloud = 0;ProPlus = 0;ProPlus2021 = 0;ProjectPro2021 = 0;VisioPro2021 = 0;Standard2021 = 0;ProjectStd2021 = 0;VisioStd2021 = 0;Access2021 = 0;SkypeforBusiness2021 = 0;Excel2021 = 0;Outlook2021 = 0;PowerPoint2021 = 0;Publisher2021 = 0;Word2021 = 0;Professional2021 = 1;HomeBusiness2021 = 0;HomeStudent2021 = 0;
+>>[2023-06-23 09:08:25] Installing Office C2R Licenses:ProPlus2021Volume 
+>>[2023-06-23 09:08:37] RefreshLicenseStatus Windows ErrorCode = 0x00000000
+>>[2023-06-23 09:08:37] Office2021 _OfficeExistCheck_Local Office2021 = 1
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = Professional2021Retail,ProPlus2021Volume
+
+>>[2023-06-23 09:08:37] Office2021 Install path£º C:\Program Files\Microsoft Office\Office1
+>>[2023-06-23 09:08:37] Office2021 License path£º C:\Program Files\Microsoft Office\root\Licenses1
+>>[2023-06-23 09:08:37] _Check_Office_Info Office2021 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =1
+>>[2023-06-23 09:08:38] _CheckOfficeVOL_Licensestatus Office2021 :
+
+
+>>[2023-06-23 09:08:38] _InstallOfficeKey FXYTK-NJJ8C-GB6DW-3DYQT-6F7TH = 0
+
+>>[2023-06-23 09:08:38] Office2019 _OfficeExistCheck_Local Office2019 = 0
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = Professional2021Retail,ProPlus2021Volume
+
+>>[2023-06-23 09:08:38] Office2019 Install path£º
+>>[2023-06-23 09:08:39] Office2019 License path£º
+>>[2023-06-23 09:08:39] Office2016 _OfficeExistCheck_Local Office2016 = 1
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = Professional2021Retail,ProPlus2021Volume
+
+>>[2023-06-23 09:08:39] Office2016 Install path£º C:\Program Files\Microsoft Office\Office1
+>>[2023-06-23 09:08:39] Office2016 License path£º C:\Program Files\Microsoft Office\root\Licenses1
+>>[2023-06-23 09:08:39] _Check_Office_Info Office2016 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =0
+>>[2023-06-23 09:08:40] _CheckOfficeVOL_Licensestatus Office2016 :
+
+
+>>[2023-06-23 09:08:40] Office2013 _OfficeExistCheck_Local Office2013 = 0
+ C2R =  MSI = 0 PRIds = 
+
+>>[2023-06-23 09:08:40] Office2013 Install path£º
+>>[2023-06-23 09:08:40] Office2013 License path£º
+>>[2023-06-23 09:08:40] _MSI_R2V  Begining...
+>>[2023-06-23 09:08:40] Office2010 _OfficeExistCheck_Local Office2010 = 0
+ C2R =  MSI = 0 PRIds = 
+
+>>[2023-06-23 09:08:40] _MSI_R2V Office 2010 is not detected.
+>>[2023-06-23 09:08:40] Office2013 _OfficeExistCheck_MSI  MSI = 0
+
+>>[2023-06-23 09:08:40] _MSI_R2V Office 2013 is not detected.
+>>[2023-06-23 09:08:40] Office2016 _OfficeExistCheck_MSI  MSI = 0
+
+>>[2023-06-23 09:08:40]  _OfficeUWPExist OfficeExist = 0
+
+>>[2023-06-23 09:08:40] Office2016 _OfficeExistCheck_Local Office2016 = 1
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = Professional2021Retail,ProPlus2021Volume
+
+>>[2023-06-23 09:08:40] _MSI_R2V Office 2016 is not detected.
+>>[2023-06-23 09:08:40] Office2019 _OfficeExistCheck_Local Office2019 = 0
+ C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = Professional2021Retail,ProPlus2021Volume
+
+>>[2023-06-23 09:08:40] _MSI_R2V Office 2019 is not detected.
+>>[2023-06-23 09:08:41] _Check_Office_Info Office2021 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =1
+>>[2023-06-23 09:08:41] _Check_Office_Info Office2019 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =0
+>>[2023-06-23 09:08:41] _Check_Office_Info Office2016 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =0
+>>[2023-06-23 09:08:41] _Check_Office_Info Office2013 :
+Office 21, Office21ProPlus2021PreviewVL_KMS_Client_AE edition
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+f3fb2d68-83dd-4c8b-8f09-08e0d950ac3b
+fbdb3e18-a8ef-4fb3-9183-dffd60bd0984
+
+ Office VL =0
+>>[2023-06-23 09:08:41] _Check_Office_Info Office2010 :
+Office 14, OfficeProPlus-KMS_Client edition
+
+6f327760-8c5c-417c-9b61-836a98287e0c
+
+ Office VL =1
+>>[2023-06-23 09:08:43] sppsvc [Status:Stopped]
+>>[2023-06-23 09:08:44] osppsvc [Status:Stopped]
+>>[2023-06-23 09:08:44] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Del = 1
+>>[2023-06-23 09:08:45] Remove Microsoft Defender Exclusion ErrorCode:0
+;0
+
+>>[2023-06-23 09:08:45] Del NoGenTicket = 1
+>>[2023-06-23 09:08:46] ÒÑ´¦ÀíµÄÎÄ¼þ: C:\windows\System32\SECOPatcher.dll
+ÒÑ³É¹¦´¦Àí 1 ¸öÎÄ¼þ;
+>>[2023-06-23 09:08:46] _DelSECOPatcher Del SECOPatcher.dll = 1
+>>[2023-06-23 09:08:46] _DelSECOPatcher Remove vlmcsd = Service vlmcsd removed successfully
+
+>>[2023-06-23 09:08:46] _DelSECOPatcher Del kms-server.exe = 1
+>>[2023-06-23 09:08:46] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe Del = 0
+>>[2023-06-23 09:08:46] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\sppsvc.exe Del = 0
+>>[2023-06-23 09:08:46] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\osppsvc.exe Del = 0
+>>[2023-06-23 09:08:46] SppExtComObjHook.dll [Not Found]
+>>[2023-06-23 09:08:47] Remove Microsoft Defender Exclusion ErrorCode:0
+
+>>[2023-06-23 09:08:47] _StartKMSServer KMSMode = 1
+>>[2023-06-23 09:08:47] _CheckPort [1688:OK]
+>>[2023-06-23 09:08:48] Add Microsoft Defender Exclusion ErrorCode:0
+;0
+
+>>[2023-06-23 09:08:48] Add NoGenTicket = 1
+>>[2023-06-23 09:08:48] Copy SECOPatcher = 1    C:\windows\System32
+>>[2023-06-23 09:08:49] ·¢ÏÖ SID: C:\windows\System32\SECOPatcher.dll¡£
+ÒÑ³É¹¦´¦Àí 1 ¸öÎÄ¼þ; ´¦Àí 0 ¸öÎÄ¼þÊ±Ê§°Ü
+
+ÒÑ´¦ÀíµÄÎÄ¼þ: C:\windows\System32\SECOPatcher.dll
+Ò
+>>[2023-06-23 09:08:49] Add Debugger = 1
+>>[2023-06-23 09:08:49] Copy kms-server.exe = 1    C:\windows\System32
+>>[2023-06-23 09:08:53] vlmcsd [Succeed to start]
+>>[2023-06-23 09:08:53] _CheckLocalKMSServer Mode1 [Files Complete]
+>>[2023-06-23 09:08:53] _TcpClientConnect->127.0.0.2:1688[Succeed]
+>>[2023-06-23 09:08:55] sppsvc [Status:Running]
+>>[2023-06-23 09:08:55] _CheckOfficeVOL_Licensestatus Office2021 :
+Office 21, Office21ProPlus2021VL_KMS_Client_AE edition
+
+
+>>[2023-06-23 09:08:57] sppsvc [Status:Running]
+>>[2023-06-23 09:08:58] WinMgmt [Status:Running]
+>>[2023-06-23 09:08:58] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2023-06-23 09:08:58] HKU64\S-1-5-20\Software\Microsoft\Windows NT\CurrentVersion\SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =1
+>>[2023-06-23 09:08:58] HKLM64\SOFTWARE\Microsoft\Windows NT\CurrentVersion\OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2023-06-23 09:08:58] HKU64\S-1-5-20\Software\Microsoft\Windows NT\CurrentVersion\OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2023-06-23 09:08:58] HKLM64\SOFTWARE\Microsoft\OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2023-06-23 09:08:58] HKU64\S-1-5-20\SOFTWARE\Microsoft\OfficeSoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\fbdb3e18-a8ef-4fb3-9183-dffd60bd0984 Del =0
+>>[2023-06-23 09:08:58] KMS Name and Port = 1,1,1,1
+>>[2023-06-23 09:08:58] Fixbanner = 1,1,1,1
+>>[2023-06-23 09:08:59] Install Office Key FXYTK-NJJ8C-GB6DW-3DYQT-6F7TH Error Code = 0
+
+>>[2023-06-23 09:09:03] _ActivateOffice Error Code = 0x0000000000000000
+>>[2023-06-23 09:09:04] _CheckOfficeVOL_Licensestatus Office2016 :
+
+
+>>[2023-06-23 09:09:04]  _OfficeUWPExist OfficeExist = 0
+
+>>[2023-06-23 09:09:06] ³É¹¦: ¼Æ»®µÄÈÎÎñ "\Microsoft\Windows\SoftwareProtectionPlatform\SvcTrigger" ±»³É¹¦É¾³ý¡£
+³É¹¦: ³É¹¦´´½¨¼Æ»®ÈÎÎñ "\Microsoft\Windows\SoftwareProtectionPlatform\SvcTrigger"¡£
+ÐÅÏ¢: ÒÑÆôÓÃ¼Æ»®µÄÈÎÎñ "\Microsoft\Windows\SoftwareProtectionPlatform\SvcTrigger"¡£
+³É¹¦: ¸ü¸ÄÁË¼Æ»®ÈÎÎñ "\Microsoft\Windows\S
+>>[2023-06-23 09:09:06] _CheckLocalKMSServer Mode1 [Files Complete]
+>>[2023-06-23 09:09:06] _RenewalCheck = 1

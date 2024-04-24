@@ -1,0 +1,149 @@
+﻿WTG辅助工具5.6.0.0
+2024/1/16 22:42:47
+Command:bcdboot.exeI:\windows /s L: /f uefi  /l zh-CN  /v 
+Command:bcdboot.exeI:\windows /s L: /f uefi  /l zh-CN  /v 
+BFSVC: ServiceBootFiles MuiOnly:n Res:y Fonts:y BootMgrOvw:n BootStatOvw:n DbgTrn:y SuspendBDE:n
+BFSVC: Using source OS version a0000585d0001
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\bootmgfw.efi for read because the file or path does not exist
+BFSVC: Copying boot files CopyBootManager(Yes) I:\windows\boot\EFI -> \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot 
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\bg-BG\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\bg-BG\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\bootmgfw.efi for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\bootmgr.efi for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\cs-CZ\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\cs-CZ\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\cs-CZ\memtest.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\da-DK\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\da-DK\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\da-DK\memtest.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\de-DE\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\de-DE\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\de-DE\memtest.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\el-GR\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\el-GR\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\el-GR\memtest.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\en-GB\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\en-GB\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\en-US\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\en-US\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\en-US\memtest.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\es-ES\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\es-ES\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\es-ES\memtest.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\es-MX\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\es-MX\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\et-EE\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\et-EE\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\fi-FI\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\fi-FI\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\fi-FI\memtest.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\fr-CA\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\fr-CA\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\fr-FR\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\fr-FR\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\fr-FR\memtest.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\hr-HR\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\hr-HR\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\hu-HU\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\hu-HU\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\hu-HU\memtest.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\it-IT\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\it-IT\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\it-IT\memtest.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\ja-JP\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\ja-JP\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\ja-JP\memtest.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\kdnet_uart16550.dll for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\kdstub.dll for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\kd_02_10df.dll for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\kd_02_10ec.dll for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\kd_02_1137.dll for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\kd_02_14e4.dll for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\kd_02_15b3.dll for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\kd_02_1969.dll for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\kd_02_19a2.dll for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\kd_02_1af4.dll for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\kd_02_8086.dll for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\kd_07_1415.dll for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\kd_0C_8086.dll for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\ko-KR\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\ko-KR\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\ko-KR\memtest.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\lt-LT\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\lt-LT\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\lv-LV\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\lv-LV\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\memtest.efi for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\nb-NO\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\nb-NO\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\nb-NO\memtest.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\nl-NL\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\nl-NL\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\nl-NL\memtest.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\pl-PL\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\pl-PL\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\pl-PL\memtest.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\pt-BR\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\pt-BR\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\pt-BR\memtest.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\pt-PT\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\pt-PT\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\pt-PT\memtest.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\qps-ploc\memtest.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\ro-RO\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\ro-RO\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\ru-RU\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\ru-RU\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\ru-RU\memtest.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\sk-SK\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\sk-SK\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\sl-SI\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\sl-SI\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\sr-Latn-RS\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\sr-Latn-RS\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\sv-SE\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\sv-SE\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\sv-SE\memtest.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\tr-TR\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\tr-TR\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\tr-TR\memtest.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\uk-UA\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\uk-UA\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\zh-CN\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\zh-CN\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\zh-CN\memtest.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\zh-TW\bootmgfw.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\zh-TW\bootmgr.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\zh-TW\memtest.efi.mui for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Boot\bootx64.efi for read because the file or path does not exist
+BFSVC: Updating \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Boot\bootx64.efi
+BFSVC: Creating Recovery directory.
+BFSVC: Copying font files from I:\windows\boot\Fonts to \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\Fonts...
+BFSVC: Copying resource files from I:\windows\boot\Resources to \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\Resources...
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\Resources\bootres.dll for read because the file or path does not exist
+BFSVC: Unable to open file \\?\GLOBALROOT\Device\HarddiskVolume11\EFI\Microsoft\Boot\Resources\en-US\bootres.dll.mui for read because the file or path does not exist
+BFSVC: Servicing debugger files
+BFSVC: List of debugger files is empty
+BFSVC: System partition is not in a space
+BFSVC: BfsInitializeBcdStore flags(0x0000021c) RetainElementData:n DelExistinObject:n
+BFSVC: VolumePathName for I:\windows is I:\
+BFSVC: SystemRoot is \windows
+BFSVC: Opening template from \Device\HarddiskVolume12\windows\System32\config\BCD-Template.
+BFSVC: Opening store from \Device\HarddiskVolume11\EFI\Microsoft\Boot\BCD
+BFSVC: System BCD store does not exist, creating.
+BFSVC: Creating General objects.
+BFSVC: Creating Resume object.
+BFSVC: Creating MemTest object.
+BFSVC: Creating OsLoader object.
+BFSVC: OsLoader identifier: {83bb27e9-b47d-11ee-8a44-d85ed35e6f81}
+BFSVC: Removing duplicate entries.
+BFSVC: Create BOOTMGR object RetainBootDefault:n
+BFSVC: Setting {default} to {83bb27e9-b47d-11ee-8a44-d85ed35e6f81}
+BFSVC: Cleaning up debugger settings.
+BFSVC: Cleaning up hypervisor settings.
+BFSVC: Opening recovery store from \Device\HarddiskVolume11\EFI\Microsoft\Recovery\BCD
+BFSVC: Creating new recovery store \Device\HarddiskVolume11\EFI\Microsoft\Recovery\BCD
+BFSVC: Creating General objects.
+BFSVC: Create BOOTMGR object RetainBootDefault:y
+已成功创建启动文件。
+
