@@ -1,0 +1,5 @@
+pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
+http://mirrors.aliyun.com/pypi/simple/
+
+取消：
+pip config unset global.index-url
