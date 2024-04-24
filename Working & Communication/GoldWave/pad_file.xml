@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML_DIZ_INFO>
+	<MASTER_PAD_VERSION_INFO>
+		<MASTER_PAD_VERSION>3.01</MASTER_PAD_VERSION>
+		<MASTER_PAD_EDITOR>PADGen 3.0.1.35 http://www.padgen.org</MASTER_PAD_EDITOR>
+		<MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+	</MASTER_PAD_VERSION_INFO>
+	<Company_Info>
+		<Company_Name>GoldWave Inc.</Company_Name>
+		<Address_1>P.O. Box 51</Address_1>
+		<Address_2 />
+		<City_Town>St. John's</City_Town>
+		<State_Province>NL</State_Province>
+		<Zip_Postal_Code>A1C 5H5</Zip_Postal_Code>
+		<Country>Canada</Country>
+		<Company_WebSite_URL>http://www.goldwave.com</Company_WebSite_URL>
+		<Contact_Info>
+			<Author_First_Name>Chris</Author_First_Name>
+			<Author_Last_Name>Craig</Author_Last_Name>
+			<Author_Email>See.Web.Site@goldwave.com</Author_Email>
+			<Contact_First_Name>Chris</Contact_First_Name>
+			<Contact_Last_Name>Craig</Contact_Last_Name>
+			<Contact_Email>See.Web.Site@goldwave.com</Contact_Email>
+		</Contact_Info>
+		<Support_Info>
+			<Sales_Email>See.Web.Site@goldwave.com</Sales_Email>
+			<Support_Email>See.Web.Site@goldwave.com</Support_Email>
+			<General_Email>See.Web.Site@goldwave.com</General_Email>
+			<Sales_Phone />
+			<Support_Phone />
+			<General_Phone />
+			<Fax_Phone />
+		</Support_Info>
+	</Company_Info>
+	<Program_Info>
+		<Program_Name>GoldWave</Program_Name>
+		<Program_Version>5.22</Program_Version>
+		<Program_Release_Month>10</Program_Release_Month>
+		<Program_Release_Day>18</Program_Release_Day>
+		<Program_Release_Year>2007</Program_Release_Year>
+		<Program_Cost_Dollars>45.00</Program_Cost_Dollars>
+		<Program_Cost_Other_Code>CAD</Program_Cost_Other_Code>
+		<Program_Cost_Other>45.00</Program_Cost_Other>
+		<Program_Type>Shareware</Program_Type>
+		<Program_Release_Status>Minor Update</Program_Release_Status>
+		<Program_Install_Support>Install and Uninstall</Program_Install_Support>
+		<Program_OS_Support>WinME,Windows2000,WinXP,Windows2003,Windows Vista Starter,Windows Vista Home Basic,Windows Vista Home Premium,Windows Vista Business,Windows Vista Enterprise,Windows Vista Ultimate</Program_OS_Support>
+		<Program_Language>English</Program_Language>
+		<Program_Change_Info>Added new filter effect, keyboard configuration and navigation, marker preview, variable silence reduction, accessibility help, plus many other improvements and fixes.</Program_Change_Info>
+		<Program_Specific_Category>Audio</Program_Specific_Category>
+		<Program_Category_Class>Audio &amp; Multimedia::Other</Program_Category_Class>
+		<Program_System_Requirements />
+		<File_Info>
+			<File_Size_Bytes>2586200</File_Size_Bytes>
+			<File_Size_K>2525</File_Size_K>
+			<File_Size_MB>2.47</File_Size_MB>
+		</File_Info>
+		<Expire_Info>
+			<Has_Expire_Info>N</Has_Expire_Info>
+			<Expire_Count />
+			<Expire_Based_On>Uses</Expire_Based_On>
+			<Expire_Other_Info />
+			<Expire_Month />
+			<Expire_Day />
+			<Expire_Year />
+		</Expire_Info>
+	</Program_Info>
+	<Program_Descriptions>
+		<English>
+			<Keywords>sound, audio, play, editor, record, effects, converter, mp3, itunes, podcast, wav, noise, filter, album, tape, vinyl, CD, LP, analysis, ripper, equalizer, wma</Keywords>
+			<Char_Desc_45>A professional digital audio editor/recorder</Char_Desc_45>
+			<Char_Desc_80>A professional digital audio player, editor, converter, recorder, and analyzer</Char_Desc_80>
+			<Char_Desc_250>A professional digital audio player, editor, converter, recorder, and analyzer.  It includes many effects, such as equalizers, noise reduction, and time warp.  Displays real-time visuals.  Supports MP3, OGG, WAV, WMA, M4A and many more formats.</Char_Desc_250>
+			<Char_Desc_450>GoldWave is a professional digital audio editor.  Use it to play, edit, mix, and analyze audio, or apply special effects, such as fade, equalizer, echo, reverse, time warp, noise reduction, pop/click filter.  New files can be recorded from cassettes, albums, radio, or digitally copied from audio CDs.  Real-time visuals are displayed during playback and recording.  Supports MP3, M4A, WAV, WMA, OGG, and many more formats.  15 years of development.</Char_Desc_450>
+			<Char_Desc_2000>GoldWave is a professional digital audio editor.  It is one of the most popular and highest rated audio editors for Windows.  Use it to play, edit, mix, restore, and analyze audio, or apply special effects, such as fade, equalizer, doppler, mechanize, echo, reverse, time warp, noise reduction, pop/click filter.  New files can be recorded from cassettes, albums, radio, microphone, etc. or digitally copied from audio CDs.  Real-time visuals are displayed during playback and recording.  Supports MP3, OGG, WAV, WMA, M4A, and many more formats and can perform batch conversions and processing.  Excellent value with free upgrades.  GoldWave has a proven track record with 15 years in the audio editing software business.</Char_Desc_2000>
+		</English>
+	</Program_Descriptions>
+	<Web_Info>
+		<Application_URLs>
+			<Application_Info_URL>http://www.goldwave.com</Application_Info_URL>
+			<Application_Order_URL>http://www.goldwave.com/purchase.php</Application_Order_URL>
+			<Application_Screenshot_URL>http://www.goldwave.com/images/gwmain.png</Application_Screenshot_URL>
+			<Application_Icon_URL>http://www.goldwave.com/images/gwicon.png</Application_Icon_URL>
+			<Application_XML_File_URL>http://www.goldwave.com/gwpad.xml</Application_XML_File_URL>
+		</Application_URLs>
+		<Download_URLs>
+			<Primary_Download_URL>http://www.goldwave.com/release.php</Primary_Download_URL>
+			<Secondary_Download_URL>http://www.goldwave.ca/release.php</Secondary_Download_URL>
+			<Additional_Download_URL_1 />
+			<Additional_Download_URL_2 />
+		</Download_URLs>
+	</Web_Info>
+	<Permissions>
+		<Distribution_Permissions>This software may be distributed freely through web and ftp
+sites.  Only the unmodified "exe" file may be distributed or copied.
+You are prohibited from:
+ - charging a fee or requesting donations for the software
+ - renting the software
+ - defeating shareware limits or using unauthorized passwords
+ - distributing/including the software in commercial products
+ - modifying or reverse engineering the software.
+
+The software may be distributed on discs (such as CD-ROMs or DVDs)
+in cases where download sites issue discs of their collections.
+The software may be distributed on cover and companion discs
+associated with magazines and books.</Distribution_Permissions>
+		<EULA>The software may be installed on your system and used for a reasonable
+length of time to determine its usefulness, after which you agree to
+either purchase a license or uninstall the software.
+
+The software is provided "as is", without warranty of any kind.
+GoldWave Inc. shall not be liable for damages of any kind.
+By using this software you agree to these terms.</EULA>
+	</Permissions>
+</XML_DIZ_INFO>

@@ -1,0 +1,1078 @@
+GoldWave Revision History
+-------------------------
+
+v5.22
+-----
+	Fixed Vista compatibility when opening or saving a file.
+
+v5.21
+-----
+	Added Spectrum Filter effect.
+	Added keyboard audio navigation and persistent playback cursor.
+	Added Keyboard Options command for reassigning shortcuts.
+	Changed zoom out to be symmetrical with zoom in.
+	Added View command to right-click menu in Cue Points list.
+	Added "From finish marker" to Add Edit in Batch Processing.
+	Added "/range" command line parameter support to Batch Processing.
+	Added "/clipboard:filename" command line parameter for Batch
+	  Processing.
+	Changed Time Warp to update both change % and length.
+	Changed QTFile plug-in to avoid certain file types.
+	Changed Setup list to allow screen readers to read checkbox status.
+	Added "10 Minutes" to View menu.
+	Increased range of ASCII floating point numbers to +/-10.0.
+	Added "Check For Updates" under Help menu for licensed users.
+	Increased Volume Shape Y limit to 2.0.
+	Replaced cue lines button with menu item in cue context menu.
+	Added "Preserve mono/stereo" option to Batch Processing.
+	Added percent and maximum settings to Silence Reduction.
+	Stored File Merger window size and position.
+	Changed CD Reader to select all tracks initially.
+	Changed CD Reader "Select All" button to toggle selections.
+	Added accessibility topic to help file and manual.
+	Added "Export cue file" to File Merger.
+	Added step numbers in Batch Processing messages.
+	Added "Marker preview" option under Control Properties Play tab.
+	Added Close All and Save All to File menu.
+	Fixed bugs: Snap to Zero-Crossing, large XAC files,
+	  two Edit Drop Cue, Drop Cue Edit, stopped CD Reader
+	  using ASPI on NT/XP, jump finish to cue, previewing
+	  Channel Mixer, overlapped progress text, QTFile plug-in,
+	  zoom status mode, saving unsupported file type, invalid
+	  floating point in Dynamics, repeated MP3 encoder missing
+	  errors in Batch Processing and CD Reading, relative
+	  paths in M3U files.
+
+v5.20
+-----
+	Added "Check for updates" option for licensed users.
+	Included QTFile plug-in for decoding MOV, MP4, M4A files.
+	Updated WMA plug-in for improved high resolution support.
+	Updated FLAC plug-in to version 1.1.4.
+	Added context menu to configure zoom item in status bar.
+	Added partial information option to Batch Processing.
+	Added more options to control AutoTrim.
+	Fixed bugs: Start menu link for help, Specify View start,
+	  sampling rate in XAC files, abort processing, scroll bar
+	  in CD database selection listing, storing CD track data
+	  in limited user account.
+
+v5.19
+-----
+	Updated built-in help.
+	Added eject button, disc change detection, and easier previewing
+	  to CD Reader.
+	Added album artist to File Information.
+	Added M3U file support to Batch Processing and File Merger.
+	Added more exception and error handling.
+	Added error message when storage becomes full while recording.
+	Removed code to reduce flicker when redrawing waveforms because
+	  it caused playback/recording glitches on weak hardware.
+	Added "Reset audio devices" setup option.
+	Fixed bugs: Open file previewing, CD Reader permissions, cleanup
+	  of Evaluator temporary files.
+
+v5.18
+-----
+	Added Waterfall visual.
+	Added Minimize option to Batch Processing.
+	Added joint stereo MP3 option under GoldWave* file plug-in options.
+	Added power management detection to avoid Suspend while recording.
+	Added waveform context menu to time axis area.
+	Added information to status bar units.
+	Added cue point lines button next to cue points slot.
+	Added colour setting for cue point lines.
+	Reduced flicker when redrawing waveform.
+	Removed unsupported unsigned attribute from custom file settings.
+	Improved rounding when saving with 8 bit and 24 bit attributes.
+	Added HH:MM:SS.XX/YY frame format for all time entry boxes.
+	Added time entry section to manual.
+	Fixed bugs: presets appending process list in Batch Processing,
+	  Spectrum visual log range, wave cue points, WMA file handling,
+	  command line rate conversion, H key for overview and wrong
+	  start time.
+
+v5.17
+-----
+	Stored Batch Processing window size.
+	Added filename to save confirmation window.
+	Fixed bugs: overwrite listing delay in Batch Processing, noise
+	  reduction corruption with dual processors, Split Files tool
+	  bar button.
+
+v5.16
+-----
+	Fixed problem saving MP3 files.
+
+v5.15
+-----
+	Added JKL keys for playback.
+	Added Shift+JKL keys for changing playback speed.
+	Added H key for Play From Here command.
+	Added Shift+[, Shift+], Ctrl+[, and Ctrl+] keys.
+	Added Shift+Home, Shift+End, Ctrl+Shift+Home, Ctrl+Shift+End keys.
+	Added manual CD ID entry option for CD Reader.
+	Added track names in Read Time Range tab of CD Reader.
+	Added preview buttons to Read Tracks tab of CD Reader.
+	Changed FLAC plug-in to allow non-streamable sampling rates.
+	Changed Batch Processing window to be resizable.
+	Added Previous command under Marker submenu.
+	Added dB option for status level text for screen reader.
+	Added dual processor support to Noise Reduction, Time Warp (FFT),
+	  and Pitch effects when processing stereo files on a dual or
+	  multiprocessor computer (1.75x faster).
+	Added submenus for different types of plug-ins under Options menu.
+	Fixed bugs: ACM MP3 mono attributes, log spectrum visual, noisy
+	  dc offset filter, priority box position on resize, pass filter
+	  on lower sampling rate, play from here at finish marker,
+	  24 bit WMA encoding, redraw incomplete while recording, paste
+	  stereo into one channel, anticipate setting in
+	  Compressor/Expander, disk full when saving MP3.
+
+v5.14
+-----
+	Added logarithmic axis option for Spectrum visual.
+	Removed auto-complete on comboboxes.
+	Improved consistency of tool bar layout when Control window is
+	  opened and closed.
+	Added horizontal scroll bar to File Merger list and made window
+	  resizeable.
+	Added processing priority to progress window.
+	Increased Insert Silence time range under Batch Processing.
+	Added "Auto save" and "Power down system" recording options.
+	Lowered threshold minimums for Auto Trim and Silence Reduction.
+	Fixed bugs: preset installation, close help, exception on old
+	  computers caused by optimized Ogg Vorbis plug-in, auto cue names,
+	  reduce average, blank docked level visual, tabbing into frames.
+
+v5.13
+-----
+	Added manifest and made changes for XP themes support.
+	Updated menu and tool bar images.
+	Added Data button to File Format window.
+	Added "Do not allow other file types..." option to Default Save
+	  Format tab.
+	Changed Ogg Vorbis plug-in to use separate oggvorbis.dll module
+	  to allow faster (4x) processing and easier upgrades.
+	Added a slow expanding fade option to Bulge visual.
+	Added "Prefix original filename" option to Split File.
+	Added cue naming options to Auto Cue (and Ctrl+Q).
+	Added Backup/Restore Settings buttons under GoldWave Setup.
+	Replaced Channel Mix effect with Channel Mixer effect.
+	Added clipping options to Volume Match effect.
+	Added Channel Selection to Batch Processing edit command list.
+	Added Apply button to Batch processing to process opened file.
+	Added "Preserve subfolder structure" to Batch Processing Folder tab.
+	Added obsolete 24 bit Wave attributes for compatibility with older
+	  software.
+	Fixed bugs: Envelope visual first refresh, FLAC encoding,
+	  first split file start time, custom format presets, window
+	  location when desktop unextended, initial zoom 1:1, redraw
+	  incomplete while recording.
+
+v5.12
+-----
+	Added context menus to all effect tool bar buttons to quickly
+	  use an effect preset.
+	Added support for MPEG Layer-3 encoder included with Windows
+	  Media Player 10.
+	Added "Filter dc offset" option under Record tab.
+	Added Alt+J and Alt+Shift+J to jump finish marker to cue points.
+	Added Ctrl+Shift+Q to drop and edit a cue point.
+	Added "Move Cue To Playback" command to cue point context menu.
+	Added option to control file types used for system decoders.
+	Added Envelope visual.
+	Fixed bugs: effects tool bar, titles for split files, focus
+	  error on docked Control window.
+
+v5.11
+-----
+	Added instant playback on mouse click on time line (axis).
+	Added "/region:start,length" command line parameter to allow
+	  other programs set selection.
+	Added presets to batch processing.
+	Added "/process" command line parameter to batch process files
+	  listed on the command line.
+	Added "/process:PresentName" parameter option for selecting
+	  a preset on the command line when batch processing.
+	Added mouse-click reset for overload indicator in Analog Meter.
+	Added more efficient and configurable AutoTrim edit command.
+	Added AutoTrim edit command under Batch Processing.
+	Added buttons window to Evaluator.
+	Added "No to All" and "Yes to All" buttons when closing program
+	  with multiple modified files opened.
+	Added right-click Play command to Cue Points Tool and F4 and F8
+	  keys to start and stop playback.
+	Added proxy server setting to CD Reader Options tab.
+	Added Mono source setting under Device properties tab.
+	Added file list pasting to Batch Processing and File Merger.
+	Added foot pedal support and configuration settings.
+	Added final peak levels to Match effect.
+	Updated Ogg Vorbis plug-in to 1.1.1.
+	Added support for more Apple-C attributes and changed default
+	  filename extension to aifc.
+	Fixed bugs: prefix track number, crossfade curves, new
+	  file default time/rate values, docked controls enabled
+	  at start, maximum MP3 bitrate error, finish marker
+	  placed before start when recording stopped, vbr MP3
+	  header, slowdown/freeze on single channel editing,
+	  crash on merging to mono, utf8 info for Ogg/FLAC files,
+	  slight differences on lossless files, dynamic filters,
+	  attributes box on multiple monitor.
+
+v5.10
+-----
+	Changed visual bitmap creation to avoid multiple error messages
+	  and handle OpenGL problems better.
+	Added command line parameter "-nosplash" to hide splash screen.
+	Added automatic previewing on Open Sound window once started.
+	Changed CD Reader help.
+	Fixed Windows 98 File Open/Save incompatibility.
+	Added File Merger tool.
+	Fixed bugs: CDDB lookup with inexact match, CD track filenames,
+	  Control buttons still enabled after all files closed,
+	  DirectX plug-in, noise reduction shape, pan mix option,
+	  direct editing drawing.
+
+v5.09
+-----
+	Added editing and selection commands to Batch Processing.
+	Added drag-and-drop support for ordering effects, edits, chains
+	  on Process tab in Batch Processing.
+	Added background (multitreaded) drawing of waveforms.
+	Added envelope graph option to Volume Shape effect.
+	Added balance graph option to Pan effect.
+	Added volume only option to Pan effect.
+	Added previewing to Open Sound window.
+	Added latency setting for playback device.
+	Added "Set finish marker at stop" option to Record tab.
+	Added tip window to show current recording settings.
+	Added "Show settings window" option to Record tab.
+	Added Ctrl key for old mouse selection method to use context menu.
+	Added Delete All to Cue Points window.
+	Added numbers to Cue Points list.
+	Added Copy and Paste buttons to File Information window.
+	Changed New Sound window and added customizable presets.
+	Modified the way recording is paused to avoid driver problems.
+	Modified MP3 ID3v2 tag to avoid bugs in other software.
+	Added ID3v1.1 tag import support.
+	Added page up/down playback restart while playing view.
+	Added cue point support to FLAC file plug-in.
+	Prevented FLAC plug-in from scanning entire non-FLAC file.
+	Changed batch processing to avoid decoding when not overwriting
+	  an existing file.
+	Used WAVE_FORMAT_EXTENSIBLE instead of WAVE_FORMAT_PCM for saving
+	  24 bit or higher PCM audio for better compatibility.
+	Altered and fixed mouse wheel zooming and added Ctrl vertical zoom.
+	Added middle button context menu for changing mouse wheel behaviour.
+	Added decibel Y-axis option for Sound windows.
+	Added automatic incrementing of track number to Split File.
+	Added sentinel to DirectX plug-in wrapper to detect failure.
+	Changed visual hosting to completely avoid OpenGL when disabled.
+	Added peak hold and decay times to VU meter visual.
+	Replaced CDDB protocol with HTTP for CD Reader title download to
+	  avoid firewall conflicts.
+	Added Save Titles button to CD Reader to save disc information
+	  locally.
+	Added splash startup window to show loading status.
+	Fixed bugs: Previewing in Effect Chain Editor, blocky small fonts
+	  on fader axis, double error message in Auto Cue window,
+	  evaluator exception, effect plug-in error handling, file read
+	  error handling, batch processing an opened file, frequency
+	  on bar visuals, keyboard navigation in plug-in windows.
+
+v5.08
+-----
+	Implemented information and cue point support for visuals.
+	Added file information to split files.
+	Added option to open track files after CD Reader saves them.
+	Fixed bugs: x-y/waveform visual not cleared, batch processing
+	  rate change, crossfade memory range error, stuttered preview
+	  for mix and crossfade.
+
+v5.07
+-----
+	Implemented Redo edit command.
+	Added simple Undo history (right-click on Undo button).
+	Added ability to undo cue point changes.
+	Added import/export buttons to save cues in a .cue file.
+	Added auto import/export cue file option under Storage options.
+	Added ability to use cue point names for filenames when splitting.
+	Added track number prefix setting to CD Reader.
+	Implemented CD Reader support for non-administrator users.
+	Increased maximum crossfade length.
+	Added internal file format plug-in option to disable system decoders.
+	Added setup option to not show cue/info warning messages when saving.
+	Added a new way to reset clip indicators by clicking mouse on them.
+	Added more properties to Waveform and X-Y Graph visuals.
+	Added peak hold needle to Analog Meter visual.
+	Added incremental track numbering in Batch Processing information.
+	Removed trailing tail audio from Reverb effect so that the
+	  the selection length is no longer changed.
+	Added option to remove trailing tail audio from Echo effect.
+	Added tool bar buttons for Resample and Playback Rate.
+	Added better handling of exceptions in external plug-ins.
+	Adjusted filters to reduce overshoot at cutoffs.
+	Added file format detection for temporary GoldWave files.
+	Added extraction of DirectX presets stored in registry.
+	Updated DirectX Wrapper plug-in to sort effects in menu.
+	Updated Ogg Vorbis plug-in to 1.0.1.
+	Rewrote WMA plug-in to use synchronous reader.
+	Added support for custom attributes in file format plug-ins.
+	Added configuration page for custom MP3 attributes.
+	Added basic user installation of preset and settings to installer.
+	Fixed bugs: batch processing Apple/Amiga file types, overlapping
+	  buttons and layout problems under XP, error when adding cue
+	  when sorted by name, batch folder warning, starting recording
+	  again when timer active, default batch info, selection of
+	  identical devices, paste gives access memory beyond valid
+	  range error.
+
+v5.06
+-----
+	Added Crossfade Edit command.
+	Added Overwrite Edit command.
+	Added Bulge visual.
+	Added Subfolder option to Add Folder window in Batch Processing.
+	Added more file format options to Split File window.
+	Added anticipation and smoother settings to Compressor/Expander.
+	Added message to create the destination folder when it does not
+	  exist for Batch, Split File, CD Reader, and temporary storage.
+	Updated WMA file support to list many more attributes.
+	Added basic FLAC file support (open source in plug-in SDK).
+	Added Troubleshoot button to Device tab in Control Properties.
+	Fixed bugs: Abnormal termination when saving compressed wave
+	  files, plug-in secondary DLL loading, zooming when deleting
+	  end of file while shown in view, cannot split file error,
+	  monitor/visual sampling rate when last file closed, undeleted
+	  tmp files when shutting down Windows while program still
+	  running, Dynamics with amplitudes above 1.0, cue placement
+	  fader, CD Extra last track length, cue points moved with
+	  playback rate effect, undeleted tmp file after resampling,
+	  batch silence reduction, Replace one channel repeatedly,
+	  paste mono to stereo clicks, FFT visuals when dragging marker
+	  over mono file, recording again after record fails.
+
+v5.05
+-----
+	Updated host program plug-in interface for plug-in SDK.
+	Added the View to end playback option.
+	Added Control, Status, and Level tool bars, which are displayed
+	  when Control window is closed.
+	Added new Tool Bar Options tab to manage new bars.
+	Added patch to avoid defective drivers skipping beginning
+	  of playback.
+	Added patch to avoid defective drivers playing old audio
+	  at beginning of playback.
+	Added alternative playback initialization option under Device
+	  properties tab.
+	Added cue placement setting to Auto Cue.
+	Added track numbers to CD Reader Time Range drop down lists.
+	Changed Split File to use default file format when not using
+	  CD compatible format.
+	Improved performance when saving 16/24 bit audio.
+	Added option to update default effect settings after each use.
+	Fixed bugs: doppler preview, list views and XP styles,
+	  close while recording, CD Reader Time Range saving, saving
+	  as numerical text, saving as wave with MPEG codec,
+	  infinite playback loop freeze, pitch length, pitch/time warp
+	  on one channel, update question after saving selection,
+	  lost clipboard for batch processing, etc.
+
+v5.04
+-----
+	Improved accessibility by automatically removing menu images
+	  and displaying elapsed time and status in text form.
+	Added "config" command line option to disable plug-ins
+	  and avoid the multitude of broken DirectX plug-ins.
+	Updated entire manual and added tutorial.
+	Added Split File command under Cue Points submenu.
+	Fixed bugs: toggle closed Control window, undo resample,
+	  update graph after Save As, FFT based processing.
+
+v5.03
+-----
+	Increased axis range for Spectrum and Spectrogram visuals.
+	Modified Analog Meter visual.
+	Changed list values for Maximize and Match.
+	Added shortcut keys for preview (F4) and stop preview (F8).
+	Added shortcut key for renaming tracks in CD Reader.
+	Fixed bugs: exception when moving markers near end of mono file,
+	  keyboard selection, index error in Batch save as type,
+	  unchecked Batch Rate box, modified not set on information
+	  change, average scan, exception when opening files without
+	  an extension, etc.
+
+v5.02
+-----
+	Added old style left/right mouse selection option under
+	  Window Options.
+	Added limited support for extensible RIFF WAVE format.
+	Added new flat peak bar visual.
+	Added track renaming to CD Reader.
+	Added MaxMatch effect under Stereo menu.
+	Added start/finish buttons to new/edit cue point.
+	Fixed bugs: access violation during recording, mono/stereo
+	  description in status bar, batch deleting files when
+	  not modified, zoom factoring, jump next cue, close
+	  new files and saving, ALt+F6, colour button, modified
+	  status, evaluator on one channel, 24-bit record/play,
+	  glitch at start of record and playback, etc.
+
+v5.01
+-----
+	Added quality setting to Device tab of Control Properties to
+	  eliminate the need for IEEE floating point format support.
+	Set audio quality to 16-bit by default.
+	Added Channel button.
+	Added save confirmation option under Window Options.
+	Added draw overview option under Window Options.
+	Fixed numerous bugs: comma vs. period decimal point, recording
+	  speed, keyboard selection keys, tool bar configuration for
+	  Save button, cancel batch deletes files, channel problems,
+	  visual graph axes/ranges, temporary files not deleted after
+	  cancel, resample one channel, cancel batch processing,
+	  noise reduction clipboard, etc.
+
+v5.00
+-----
+	Completely redesigned GoldWave to support effect plug-ins,
+	  file format plug-ins, visual plug-ins, effect chains,
+	  instant virtual editing, 24-bit internal sample precision,
+	  effect previewing, multiple undo, and multithreading.
+	Replaced OWL based interface with VCL based interface.
+	Added context menus in many places (right-click on things in Control
+	  window, for example).
+	Changed program icon.
+	Implemented new edit selection interface: click-and-drag,
+	  marker-drag, right-click-and-drag, right-click context menu.
+	Added estimated time to completion to Processing window.
+	Added start time and preview to Mix command for easier
+	  synchronization.
+	Improved shape controls for more precise point control and
+	  accessibility.
+	Allowed windows with shape controls or spectrum graphs to be resized.
+	Added preview and preset controls to almost all effects.
+	Redesigned most effects to support "live" changes of settings during
+	  preview playback (some still require Apply).
+	Previewing of time based shapes starts at the current shape point.
+	Added master gain control to Equalizer effect.
+	Add Scan button to Offset effect rather than scanning automatically.
+	Added logarithmic and linear options to Volume Fade effects.
+	Replaced RMS setting with improved Volume Match effect.
+	Replaced Exchange effect with Channel Mix effect.
+	Improved Flanger effect quality and added modulator/stereo settings.
+	Added Reverb effect.
+	Added Smoother filter.
+	Added Silence Reduction effect to automatically delete long silences.
+	Improved Echo effect with number of echos, feedback, stereo settings.
+	Replaced Remove Vocal effect with Reduce Vocal effect and added
+	  Bandstop filter settings for stereo preservation.
+	Improved Time Warp effect by extending change setting range and
+	  added descriptions for each algorithm.
+	Improved Compressor/Expander effect by adding attack/release
+	  settings.
+	Removed Noise Gate filter (obsolete, use Compressor/Expander).
+	Improved Parametric EQ interface making it easier to add or
+	  remove bands.
+	Added new modulators to Mechanize effect, including clipboard.
+	Created DirectX Audio Plug-in wrapper and configuration window.
+	Added Plug-in command to Options menu to configure plug-in modules
+	  when possible.
+	Added new preset tree window to Expression Evaluator.
+	Added new x and y user constants, < and > operators, and
+	  limit() function to Expression Evaluator.
+	Significantly improved Expression Evaluator speed for hard disk
+	  based storage.
+	Added preview support to Expression Evaluator.
+	Added cue points slot to Sound window.
+	Added tip window to show cue name when mouse is over cue point.
+	Added Cue Point submenu to Edit menu.
+	Expanded cue points context menu.
+	Improved Cue Point tool interface.
+	Cue points now adjusted automatically after editing commands.
+	Added # notation to Split File feature of cue points tool.
+	Moved Mark Silence button under Auto Cue button.
+	Improved Mark Silence Auto Cue feature.
+	Added Spacing Auto Cue feature to set cue points at equal intervals.
+	Created Effect Chain Editor tool.
+	Replaced CD Audio Extraction tool with CD Reader tool.
+	Added many enhancements to the CD Reader tool including title and
+	  album database lookup, sector and speed settings, interface
+	  option, and saving a set of tracks to separate files complete
+	  with appropriate tags/information.
+	Redirected CD Reader preview through Control window, making use of
+	  the current volume, balance, playback speed, and real-time
+	  graphs.
+	Added Schemes to Colour options.
+	Created several colour schemes.
+	Improved Tool Bar configuration and added visiblility, gray-scale,
+	  caption, and menu image options (turn off menu images for
+	  for screen-reader accessibility).
+	Updated Tool Bar images.
+	Replaced File Options with Storage Options and removed obsolete
+	  options.
+	Added number of undo levels to Storage Options for reducing
+	  storage requirements.
+	Expanded File Formats Options to include file plug-in precedence,
+	  default save format, and easier raw file format associations.
+	Expanded File Information.
+	Changed status bar layout and added images to indicate presence
+	  of context menus.
+	Added status bar context menu for selecting channels.
+	Replaced Batch Conversion with Batch Processing and added the
+	  ability to use effects and chains and take advantage of
+	  effect and file format plug-ins.
+	Added more batch options: selecting entire folders or
+	  files of a certain type, expanded information, optional
+	  conversion, optional destination folder.
+	Replaced Silence effect with Mute command using fast virtual editing.
+	Changed View Other command to Specify and added start, length.
+	Replaced most 1:X view commands with time based commands instead.
+	Redesigned Device Controls window, now called Control window.
+	Replaced User play button with configurable green and yellow buttons.
+	Made speed control adjustments smoother while playing.
+	Allowed visuals to be any size and resized smoothly.
+	Added record pause button.
+	Added level activated recording prebuffer.
+	Added Visual property tab for listing visual plug-ins.
+	Created new visuals (blank, blowing inferno, spinning logo,
+	  time and status, 3D bar, analog meter).
+	Improved existing visuals (VU meter, spectrogram).
+	Combined colour and non-colour visuals into one by using properties.
+	Added Horizontal, Vertical, and Classic layout options for Controls
+	  window under Window menu.
+	Increased recently used file history list size.
+	Added website link to About box.
+	Moved all settings to registry instead of unreliable ini file.
+	Remove old name/password based licensing system.
+	Updated install program to install plug-in modules and registry
+	  settings.
+	Updated uninstall program to remove registry settings.
+	Added gradient to bitmapped buttons.
+	Created Ogg Vorbis file format plug-in.
+	Created WMA file format plug-in.
+	Created open source sample file format plug-in.
+	Created open source sample effect plug-in.
+	Created open source sample visual plug-in.
+	Updated help file.
+
+
+v4.26
+-----
+	Added rate setting to batch conversion.
+	Added information message when opening .CDA files.
+	Added log window for CD extraction to locate problems.
+	Improved ID3 tag preservation across edits.
+	Added code to preserve skipped header for File Types settings.
+	Fixed bugs: edit box focus in evaluator, drop marker/cue shortcut
+	  keystrokes when monitor enabled, main window enabled after
+	  split, resampling error, blocked debug log message.
+
+v4.25
+-----
+	Added settings to Mark Silence Cue Point feature.
+	Added Controls under Options menu and Device Controls under Window
+	  Companion menu to make them easier to find.
+	Added new licensing system for faster, automated, online orders.
+	Added support for 24 bit AIFF files.
+	Fixed bugs: Evaluator focus, CD device select empty track.
+
+v4.24
+-----
+	Added cue point time stamp to level activated recording.
+	Added automatic cue points to CD audio extraction tool to
+	  mark tracks.
+	Increased batch conversion file list size.
+	Increased new file length limit.
+	Refined MP3 encoder search code.
+	Added sgn() function to Evaluator.
+	Fixed bugs: memory problem with Time warp and Pitch effects,
+	  pop/click filter tail, extra button for joystick option.
+
+v4.23
+-----
+	Changed contact information to GoldWave Inc.
+	Added more Vorbis support and created new module.
+	Added internal option to fully open VBR MP3 files.
+	Added room for one more recording volume control.
+	Added code to find MP3 encoder if not copied to System folder.
+	Improved volume shape smoothness.
+
+v4.22
+-----
+	Revised German version.
+	Added confirmation message when deleting presets.
+	Added Ctrl+J key to jump start marker to cue point.
+	Fixed marker dropping keys.
+
+v4.21
+-----
+	Added code to try to avoid problem where Microsoft's multimedia
+	  streaming interface uses incorrect format for MPEG files.
+	Changed ID3 tag for author in MP3 files.
+	Removed extended padding header from ID3 tag for better
+	  compatibility with older software.
+	Added Ctrl+Q key to drop cue points while recording or playing.
+	Added new colour graphs.
+	Added Joystick control option under Device Properties.
+	Fixed evaluator tool using waveX terms.
+	Fixed time warp when using small change factors.
+
+v4.20
+-----
+	German version.
+	Added more Vorbis attributes.
+	Fixed cue points ordering for large files.
+
+v4.19
+-----
+	Changed fast forward and rewind to use original playback region.
+	Fixed Copy to.
+
+v4.18
+-----
+	Added Ogg Vorbis support to batch converter.
+	Added help information for Vorbis codec.
+
+v4.17
+-----
+	Upgraded to Borland C++Builder 5.
+	Improved CD audio extraction support under NT and 2000.
+	Added ability to continue CD extraction when synchronization lost.
+	Set GoldWave clipboard as default.
+	Added option to open ASF files missing length information.
+	Added Ogg Vorbis file support through new Common Audio Layer.
+	Fixed bugs: noise gate, mpeg overflow, pops in file conversion,
+	  file conversion exception, expand/compress, snap to zero-crossing
+	  exception, raw filename extension, stereo noise reduction with
+	  clipboard.
+
+v4.16
+-----
+	Fixed Volume Properties incompatibility with some sound cards.
+
+v4.15
+-----
+	Added Batch conversion feature.
+	Added Pop/Click filter effect.
+	Added Split file button to Cue points tool.
+	Added bitrate to status bar for MP3 files.
+	Added more MP3 bitrate options under Save as.
+	Improved graph refresh rate during disk access.
+	Added SPTI support for CD audio extraction under NT.
+	Fixed bugs: dragging one marker beyond the other gives negative
+	  range, [ and ] keys not working while monitoring, unbounded
+	  recording inconsistencies, missing temporary folder, save as,
+	  playback buffering, etc.
+
+v4.12
+-----
+	Created self-installing program.
+	Changed Device Controls Graph Properties to show a list of graphs.
+	Added X-Y Mode graph.
+	Synchronized left and right graphs.
+	Added Unbounded option to Record Properties so file storage
+	  can be allocated dynamically.
+	Changed Countdown timer to day/time timer.
+	Improved Volume Properties compatibility.
+	Added scrolling during playback when Scroll Lock key on.
+	Added RMS setting to Volume Maximize command.
+	Changed installation notice.
+	Removed dependency on DDRAW.DLL.
+	Added limited ID3v2 3.0 tag support.
+	Changed MPEG attributes to show sampling rates.
+	Fixed bugs: end-of-file noise in some compressed formats,
+	  use average in noise reduction, interpolate, file size.
+
+v4.11
+-----
+	Fixed graph border in Device Controls window.
+
+v4.10
+-----
+	Added tooltips to Device Controls buttons.
+	Changed scroll bars to faders in Device Controls.
+	Changed LED meters to gradient colours and added limit LED.
+	Added two new realtime spectrum graph types to Graph properties.
+	Added right-click context menu for selecting graph.
+	Added fade time setting to Graph properties.
+	Changed rewind and fast forward to work without playing first.
+	Added recording Volume tab to Device Controls properties.
+	Added Information command to File menu.
+	Added Previous zoom command to View menu.
+	Added Initial zoom setting to Window options.
+	Added right-click context menu for cue points.
+	Added Store and Recall commands to Marker submenu.
+	Added 24 bit file support.
+	Added floating point WAV file support.
+	Added support for Windows Media audio compression in WAV files.
+	Added support for BladeEnc MPEG layer 3 encoder.
+	Added transparent support for all audio related formats recognized
+	  by the operating system, including movies: MOV, AVI, MPG, ASF
+	  (requires DirectX Media).
+	Removed Audio extraction submenu (AVI extraction not necessary).
+	Added Skip bytes setting to File types.
+	Added Use clipboard option to Noise reduction.
+	Added Expand/Compress effect.
+	Added status bar range update when dragging a marker.
+	Changed status bar range to show selection length.
+	Added y-axis number colour setting.
+	Updated help and manual.
+	Converted images and figures for manual.
+	Fixed bugs: Borland/Microsoft floating point exception, channel
+	  mixing and pasting, lost first sample in right channel paste,
+	  drop marker commands, copy to, pan, resample, etc.
+
+v4.04
+-----
+	German demonstration version.
+
+v4.03
+-----
+	German version (http://www.goldwave.de).
+	Fixed bugs: stereo text files, converting stereo to mono with right
+	  channel selected, insert silence in one channel, MPEG 2.5, resample
+	  enabling, remove vocals save as mono, 12 bit unsigned save.
+
+v4.02
+-----
+	Added OS Association to File Types option.
+	Improved CD extraction "fix defects" processing.
+	Revised manual and created HTML text version.
+	Added more help, including a "Getting Started" section.
+	Added some presets and expressions.
+	Improved handling of invalid WAV files.
+	Fixed bugs: zero-crossing, minimized Device Controls window,
+	  looping, axis 'k' numbering, positioning in full duplex,
+	  CD track end time, VOC conversions, time warp, etc.
+
+v4.01
+-----
+	Added Select all command to Edit menu.
+	Added Snap to zero-crossing to Marker submenu.
+	Created Save as, Select all, Rewind, Fast, and Pause buttons
+	  for tool bar configuration list.
+	Added Custom format buttons in Save as dialog.
+	Added analysis graphs and time bar to Parametric EQ.
+	Added function key support to Device Controls window.
+	Clicking on balance or speed scroll bar icon resets bar to default.
+	Added Finish to Device Controls Play Properties user play options.
+	Increased LED meter hold time maximum.
+	Selected initial preferred devices from Audio Properties.
+	Changed CD extraction tool to show device list before requesting
+	  an audio CD.
+	Added new CD extraction read technique and added support for
+	  more drives.
+	Saved CD extraction options and settings.
+	Status bar time and range format settings saved.
+	Added Copy all command to cue point tool to copy all points to
+	  the clipboard in text format.
+	Added MP3 file support to open raw MPEG layer 3 compressed files.
+	Fixed bugs: File | Close, ASCII floating point file, help
+	  links, File Format help button, File Types caption, etc.
+
+v4.00
+-----
+	Upgraded to Borland C++ 5.02.
+	Redesigned all dialogs for improved ease of use.
+	Removed all BWCC32.DLL controls.
+	Added up/down controls to some dialogs.
+	Added scroll bar controls to some dialogs.
+	Used property sheet for expanded Device Controls setup.
+	Added several windowing functions for spectral displays.
+	Added View option for user play button.
+	Added LED hold feature and time setting.
+	Added Show axis option to draw axes on oscilloscopes.
+	Added safety key, Mix, cache, and undo options for Recording
+	Added Estimate option for device positioning.
+	Added Microsoft Sound Mapper device selection.
+	Changed balance scroll bar image to indicate left, center, or
+	  right balance setting.
+	Changed balance and speed scroll bar paging to round to nearest
+	  level.
+	Added oscilloscope display when dragging start/finish markers.
+	Added new style dockable controls bars.
+	Added Tool bar customization command to Options menu.
+	Added many new tool bar buttons, selectable under new tool bar
+	  configuration command.
+	Added submenu to Window menu to hide/show control bars and
+	  status bars.
+	Improved "New Sound" selection dialog and added buttons for
+	  common settings.
+	Added Replace command to Edit menu.
+	Added Copy to command to Edit menu.
+	Added Marker submenu to Edit menu.
+	Added Set command to numerically set or align markers.
+	Added Drop start/finish commands to move marker to current
+	  playback position (keyboard '[' and ']').
+	Improved Noise gate effect with attack and anticipation settings.
+	Added Noise reduction effect with three reduction modes: shape,
+	  current, and average.
+	Improved range and accuracy of all filters.
+	Added 7-band graphic equalizer, with presets.
+	Enhanced Doppler effect to allow changes to only one channel.
+	Added Time warp effect with three different algorithms, two of
+	  which allow speed/tempo changes without changing pitch.
+	Moved Speed effect under Time warp effect.
+	Replaced Transpose with Pitch effect and added option to change
+	  pitch without changing tempo.
+	Enhanced transpose/pitch effect to change selection instead
+	  of entire file.
+	Enhanced Maximize effect to show rms level and maximum
+	  level/position and to specify new level.
+	Create stereo effects submenu.
+	Moved Pan and Exchange to stereo effects submenu.
+	Added Remove vocals effect to stereo submenu.
+	Added Audio extraction submenu to Tool menu.
+	Created AVI audio extration tool.
+	Created CD audio extration tool for SCSI CD-ROM drives.
+	Added vertical zoom in/out and amplitude axis.
+	Added several new zoom commands and keystrokes: Zoom in, Zoom out,
+	  Vertical zoom all, Vertical zoom in, Vertical zoom out.
+	Added options to configure units for time and amplitude axis.
+	Added drag-and-drop cue point positioning.
+	Improved File Format selection dialog to support many new formats.
+	Increased recently used file history list size.
+	Added customizable file extensions for associating a format to a
+	  given extension.
+	Added customized extensions to Open dialog "Files of type" list.
+	New file formats supported: MPEG layer 3 wave codec, ASCII integer,
+	  ASCII float, ISDN A-law, IEEE single precision, 32-bit.
+	Updated help file.
+	Fixed bugs: compressed file handling, inverted A-law, looping,
+	  random fpe.
+
+
+v3.24
+-----
+	Upgraded to OWL 5.0 and Borland C++ 5.0.
+	Added tool tips.
+	Change dialogs and status bar to use normal font.
+	Added better time entry boxes (HH:MM:SS.TTT).
+	Added Speed effect.
+	Added A-Law support to VOC files.
+	Added command line option to play file.
+	Added many new expressions to Expression Evaluator.
+	Limited "Unselected" playback to view, when possible.
+	Improved looping of small sections.
+	Added uncached direct-to-disk recording.
+	Added cue point markers in Sound window.
+	Fixed bugs: Saving in raw/vox format, modified status, playback
+	  lock, clipboard, graph drawing.
+
+v3.23
+-----
+	Changed buttons to use system colours.
+	Preset name stored.
+	Fixed bugs: Finish marker move during recording, 8-bit rounding
+	  error on evaluator, command line, modified status/save enable.
+
+v3.22
+-----
+	Added option to use private clipboard or Windows clipboard to
+	  work around problems with unreliable Windows 95 clipboard.
+	Added support for MIDI Sample Dump SDS files.
+	Added scrollbar tracking when zoomed in.
+	Added keystrokes for moving start/finish markers and
+	  opening files.
+	Reduced processor usage.
+	Fixed bugs: Special character filenames, Countdown timer, Save
+	  monitor option, File options on NT, Close and Maximize, Help.
+
+v3.21
+-----
+	Modified code to use old style Open/Save dialogs for Windows NT.
+	Added autoscroll when dragging start or finish marker outside
+	  view when zoomed in.
+	Increased number of Parametric EQ bands to 30.
+	Added automatic frame rate limiter for oscilloscopes to reduce
+	  CPU load.
+	Fixed bugs: Cleared coordinates, Path dialog.
+
+
+v3.20
+-----
+	Converted code to 32-bit flat address model.
+	Added Paste new command to Edit menu.
+	Added a configurable parametric equalizer with 10 bands and a
+	  graphical interface with logarithmic scales.
+	Added easy to use dynamic lowpass, highpass, bandpass and
+	  bandstop filters.
+	Added long filename support and new Open/Save dialogs.
+	Added file support for Dialogic VOX, Sample Vision SMP,
+	  DiamondWare DWD, and old style Apple AIFF.
+	Added special Java/Web attribute to Sun (*.au) format list.
+	Added transparent support for Microsoft's Audio Compression
+	  Manager allowing wave files to be compressed using a number
+	  of different algorithms.
+	Added multithreading to recording and playback to eliminate gaps.
+	Added new recording options to Device Controls Setup: countdown
+	  timer, level/threshold controlled recording, and looping.
+	Added configurable frame rate for Device Controls displays.
+	Redirected CD Player command to Windows CD Player.
+	Added Volume Control to Tool menu.
+	Added Ctrl+F9 and Ctrl+F8 recording keystroke.
+	Added coordinates to status bar when zoomed in 1:1.
+	Added "proportional" scroll bars to Sound windows to show a
+	  closer relationship to the Overview bar.
+	"New Sound" settings now saved in configuration file.
+	Stopped entire view from being displayed after edit/effect.
+	Added code to automatically copy/update expressions and presets
+	  files.
+	Fixed bugs: File | Close, Device Controls hidden by task bar,
+	  Undo disable, Evaluator overflow, Input buffer size, etc.
+
+
+v3.03
+-----
+	Added Colours to Options menu.
+	Added frame times to status bar.
+	Added Playback buffer setting to Device Controls setup.
+	Improved CD controls.
+	Added support for A-Law in AU format.
+	Update on-line help.
+	Fixed bugs: AU, AIFC, and stereo conversions, View menu,
+	  Pan Y value, Save as dialog keys, playback, Doppler, etc.
+
+v3.01 to v3.02:
+---------------
+	Added Start and Finish to View menu.
+	Added Paste at command to Edit menu.
+	Added Triple buffering and Unselected to Device Setup.
+	Changed Intro/end to Intro/loop/end.
+	Added inject to CD Player, when supported.
+	Fixed bugs: monitor/deflash, extended character filenames,
+	  paste noise, AIF and WAV file handling, playback problems,
+	  save status, paste fpe, etc.
+
+v3.00:
+------
+	Version 3.00 is almost a complete rewrite of the code using
+	  Borland OWL 2.0 and improved C++ object oriented constructs.
+	Developed with a 32-bit future in mind.
+	Redesigned file handling to allow on-the-fly conversions, huge
+	  file support, transparent RAM or hard disk storage, flash, and
+	  an unlimited number of opened files.
+	Added File options to configure storage, flash, and directories.
+	Added directory selection dialog.
+	Added a file history to File menu.
+	Combined Export with Save as and added more file types and
+	  attributes.
+	Added support for Apple AFC & AIF, A-Law, and WAV A-Law.
+	Added A-Law and IEEE double to Raw File Format dialog.
+	Added new effects: distortion, doppler, noise gate, user defined
+	  filter, and flange.
+	Added fine tune to transpose.
+	Removed interpolate from Resample (always interpolates).
+	Improved status report during processing to allow user to
+	  switch to another application.
+	Improved Shape boxes using a special technique to preserve
+	  the background without affecting the foreground line, allowing
+	  solid grids and numbered axis to be added.
+	Added presets to save shapes and effects parameters in gwpreset.ini.
+	Redesigned Device Controls window and made it resizable.
+	Moved audio device selection to Device Setup dialog.
+	Implemented a virtual audio device for realtime rewind and
+	  fast forward playback, automatic 16-bit to 8-bit conversion,
+	  and automatic resampling.
+	Added realtime log spectrum bar graph, spectrogram, and
+	  LED meters.
+	Added click-to-change feature on oscilloscopes.
+	Added automatic volume updating when another program changes
+	  the device volume.
+	Added configurable play button: selection, all, intro/end,
+	  and looping.
+	Replaced record looping with monitor.
+	Added configurable recording buffer size.
+	Made working buttons and LEDs on minimized Device Controls window.
+	Allowed Device Controls window to be closed to recover screen space.
+	Added a second Tool Bar for quick access to effects.
+	Created dozens of new bitmapped buttons.
+	Modified status bars to have configurable time and range displays
+	  and to show Menu and Tool Bar hints.
+	Removed AUX volume (should use sound card's mixer instead).
+	Added Window options to configure placement and size of Main window
+	  and Sound windows.
+	Improved direct editing with the mouse to prevent skipping.
+	Made start/finish markers and play position line solid.
+	Made start/finish marker movable in Overview bar.
+	Used different graphing algorithm to make sound graphs appear
+	  cleaner and more accurate.
+	Added graph cache to speed up redrawing of Sound windows.
+	Added a background colour for the selection.
+	Moved Settings options to File and Window options.
+	Moved Editing options channel control to Edit menu.
+	Improved Mix and Paste quality when editing across different
+	  sampling rates.
+	Implemented virtual clipboard to allow copying of large files.
+	Added Tools menu.
+	Changed Cue Points interface and added a Revise button.
+	Changed Evaluator interface and code to support unlimited files.
+	Added CD player with play, pause, stop, track up, track down,
+	  eject, track scroll bar, and position gauge controls.
+	Revised and improved on-line help.
+	Created numerous presets in gwpreset.ini.
+	Fixed bugs: ADPCM, evaluator parser.
+
+
+v2.12 to v2.14:
+---------------
+	Minor bug fixes: division by zero, sun export, etc.
+
+v2.12F:
+-------
+	Licensed French commercial version.
+
+v2.11:
+------
+	Updated BWCC.DLL.
+	Fixed bug: Maximize window on startup.
+
+v2.10:
+------
+	New effects: offset and transpose.
+	Renamed cross-fade to interpolate.
+	Added cue points and zoom any.
+	Changed undo to ask whether to continue when disk is full.
+	Enhanced VOC file support (8-bit/16-bit/mu-law mono/stereo).
+	Added support for 12-bit raw files.
+	Added file name to Raw File Format dialog.
+	Improved evaluator and added an expression file so expressions
+	  can be organized and saved.
+	Added system menu to Device Controls window.
+	Fixed bugs: Saved window coordinates, initial volume,
+	  Alt+F4, Speed text, etc.
+
+v2.01
+------
+	Licensed commercial version.
+
+v2.00:
+------
+	New effects: cross-fade, resample, mechanize, pan, volume shaping,
+	  fade in, echo reverb, and 4 filters.
+	Added trim to editing.
+	More view commands: user, 20:1, 5:1, 1:10, 1:100.
+	Enhanced Device Controls window: dual oscilloscopes, setup dialog.
+	Setup for Device Controls: graph type, controls, looping,
+	  graph length, positioning, other.
+	New tool bar buttons: Trim, User, Chan, Undo.
+	Added second information bar for block info.
+	Added Spectrum analyzer (easier said than done).
+	Added direct editing with the mouse.
+	Improved keyboard support.
+	Added Export command.
+	Added file support for ADPCM, MULAW, unsigned 16-bit, byte
+	  swap, Matlab.
+	Added progress indicator in the information bar.
+	Changed the expression evaluator, added edit buttons and "f" variable.
+	Fixed bugs: Stereo echo, balance, PC Tools loading, refresh, etc.
+
+v1.00:
+------
+	First release.  Includes: mono/stereo, 8/16 bit, mu-law, independent
+	  channel editing, up to 5 sound windows, detached Scope and
+	  Controls window, tool bar, information (attributes) bar, MDI,
+	  expression evaluator, and several effects.
+
